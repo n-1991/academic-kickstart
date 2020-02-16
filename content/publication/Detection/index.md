@@ -1,12 +1,13 @@
 ---
-title: "An example preprint / working paper"
+title: "Scenes from a Monopoly: Renewable Resources and Quickest Detection of Regime Shifts"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Daniele Rinaldo
+date: "2019-12-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study the stochastic dynamics of a renewable resource harvested by a monopolist firm. We introduce a framework where harvesting sequentially affects the resource's potential to regenerate. We model the decisions of a monopolist firm whose objective is to find the profit-maximizing harvesting policy while simultaneously detecting in the quickest time possible the change in regime. The model explicitly considers non-stationary dynamics in order to represent the sequential nature of the detection process. Additionally, we study the probability of extinction in each period, and show how it may be optimal for the monopolist to stop or modify extraction to allow the resource to regenerate.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
