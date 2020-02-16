@@ -1,0 +1,73 @@
+title = "Firm Decisions under Jump-Diffusive Dynamics"
+date = 2016-06-23T16:30:35-05:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Neha Deopa", "Daniele Rinaldo"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["0"]
+
+# Publication name and optional abbreviated version.
+publication = ""
+publication_short = ""
+
+# Abstract.
+abstract = "
+We present a model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion. This allows to represent both the continuous Gaussian volatility and the discon- tinuous uncertainty related to information arrival, sudden changes and large shocks. The model shows how both sources of uncertainty negatively impact the optimal investment and disinvestment policies, and how the presence of large negative jumps can drastically affect the firm’s ability to recover. Our results show that the standard Gaussian framework consistently underesti- mates the negative effect of uncertainty on firm investment decisions. We test these predictions on a panel dataset of UK firms: we first structurally estimate the uncertainty parameters using multinomial maximum likelihood and differential evolution techniques and subsequently study their impact on firm investment rates, validating our model predictions."
+
+# Summary. An optional shortened abstract.
+summary = ""
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+featured = false
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Links (optional).
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357701"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "USENIX ATC '16", url = "https://www.usenix.org/conference/atc16/technical-sessions/presentation/farrell"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
