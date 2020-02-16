@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
 
 interests:
-- Decision-Making under Risk and Uncertainty 
+- Decision-Making under Uncertainty 
 - Environmental and Resource Economics 
-- Firm behaviour: theory and empirical analysis
+- Firm behaviour - theory and empirical analysis
 
 education:
   courses:
@@ -70,4 +70,4 @@ link: static/CV_academic.pdf
 # Visitors
 ---
 
-I am a fifth year PhD candidate at The Graduate Institute of International and Development Studies, Geneva. My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. I am working under the supervision of Professor Ugo Panizza and Professor Rahul Mukherjee. 
+I am a fifth year PhD candidate at The Graduate Institute of International and Development Studies, Geneva. My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics.  
