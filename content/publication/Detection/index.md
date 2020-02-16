@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We study the stochastic dynamics of a renewable resource harvested by a monopolist firm. We introduce a framework where harvesting sequentially affects the resource's potential to regenerate. We model the decisions of a monopolist firm whose objective is to find the profit-maximizing harvesting policy while simultaneously detecting in the quickest time possible the change in regime. The model explicitly considers non-stationary dynamics in order to represent the sequential nature of the detection process. Additionally, we study the probability of extinction in each period, and show how it may be optimal for the monopolist to stop or modify extraction to allow the resource to regenerate.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: We study the stochastic dynamics of a renewable resource harvested by a firm facing a downward sloping demand curve and endogenous regime shifts, while simultaneously detecting in the quickest time possible the change in regime.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -50,7 +50,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [] 
 
 
 # Slides (optional).
