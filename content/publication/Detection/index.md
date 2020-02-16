@@ -3,7 +3,7 @@ title: "Scenes from a Monopoly: Renewable Resources and Quickest Detection of Re
 authors:
 - admin
 - Daniele Rinaldo
-date: "2019-06-07T00:00:00Z"
+date: "2019-12-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
