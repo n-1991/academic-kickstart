@@ -1,13 +1,13 @@
 ---
 title: "Firm Decisions under Jump-Diffusive Dynamics"
 authors:
-- Neha Deopa
+- admin
 - Daniele Rinaldo
 date: "2019-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,28 +23,29 @@ abstract: We present a model of firm investment under uncertainty and partial ir
 
 # Summary. An optional shortened abstract.
 summary: A model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion.
+
 tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: ""
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357701
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-# caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-# focal_point: ""
-# preview_only: false
+ image:
+ caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+ focal_point: ""
+ preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
