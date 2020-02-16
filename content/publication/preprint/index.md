@@ -1,9 +1,8 @@
 ---
-title: "Firm Decisions under Jump-Diffusive Dynamics"
+title: "An example preprint / working paper"
 authors:
 - admin
-- Daniele Rinaldo
-date: "2019-01-01T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,40 +18,41 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We present a model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion. This allows to represent both the continuous Gaussian volatility and the discontinuous uncertainty related to information arrival, sudden changes and large shocks. The model shows how both sources of uncertainty negatively impact the optimal investment and disinvestment policies, and how the presence of large negative jumps can drastically affect the firm’s ability to recover. Our results show that the standard Gaussian framework consistently underestimates the negative effect of uncertainty on firm investment decisions. We test these predictions on a panel dataset of UK firms: we first structurally estimate the uncertainty parameters using multinomial maximum likelihood and differential evolution techniques and subsequently study their impact on firm investment rates, validating our model predictions."
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: A model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-# - name: ""
-#   url: ""
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357701
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
-url_project: '#'
-url_slides: '#'
+url_project: ''
+url_slides: ''
 url_source: '#'
 url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
- image:
- caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
- focal_point: ""
- preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -61,7 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
