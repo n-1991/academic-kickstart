@@ -17,16 +17,8 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research Consultant"
-  company = "United Nations Conference on Trade and Development (UNCTAD)"
-  company_url = ""
-  location = "Geneva, Switzerland"
-  date_start = "2019-04-01"
-  date_end = "2020-09-01"
-  description = """
- 
 
+ 
 [[experience]]
   title = "Economics Research Intern"
   company = "World Intellectual Property Organization (WIPO)"
