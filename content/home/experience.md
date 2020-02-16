@@ -23,6 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Geneva, Switzerland"
   date_start = "2019-04-01"
+  date_end = "2020-09-01"
   description = """
  
 
