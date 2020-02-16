@@ -5,27 +5,27 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
 
-# [content]
+[content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-   count = 0
+  count = 5
   
   # Choose how many pages you would like to offset by
-   offset = 0
+  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-   order = "desc"
+  order = "desc"
 
   # Filter posts by a taxonomy term.
-   [content.filters]
-     tag = ""
+  [content.filters]
+    tag = ""
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,7 +45,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "navy"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -58,15 +58,14 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-# [advanced]
+[advanced]
  # Custom CSS. 
- # css_style = ""
+ css_style = ""
  
  # CSS class.
- # css_class = ""
+ css_class = ""
 +++
 
-
-
-
-
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
