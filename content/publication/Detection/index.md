@@ -1,13 +1,12 @@
 ---
-title: "Scenes from a Monopoly: Renewable Resources and Quickest Detection of Regime Shifts"
+title: "An example preprint / working paper"
 authors:
 - admin
-- Daniele Rinaldo
-date: "2019-12-07T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,14 +28,16 @@ tags:
 featured: false
 
 links:
-# url_pdf: 
-# url_code: '#'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
- url_slides: 'https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0'
-# url_source: '#'
-# url_video: '#'
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -50,8 +51,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [] 
-
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -60,5 +61,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
 
