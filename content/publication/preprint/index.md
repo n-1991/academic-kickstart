@@ -7,7 +7,7 @@ date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: We present a model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion. This allows to represent both the continuous Gaussian volatility and the discontinuous uncertainty related to information arrival, sudden changes and large shocks. The model shows how both sources of uncertainty negatively impact the optimal investment and disinvestment policies, and how the presence of large negative jumps can drastically affect the firm’s ability to recover. Our results show that the standard Gaussian framework consistently underestimates the negative effect of uncertainty on firm investment decisions. We test these predictions on a panel dataset of UK firms - we first structurally estimate the uncertainty parameters using multinomial maximum likelihood and differential evolution techniques and subsequently study their impact on firm investment rates, validating our model predictions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion.
 
 tags:
 - Source Themes
