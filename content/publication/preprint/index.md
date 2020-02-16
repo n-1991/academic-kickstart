@@ -28,9 +28,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357701
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
