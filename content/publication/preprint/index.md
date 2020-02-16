@@ -1,7 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Firm Decisions under Jump-Diffusive Dynamics"
 authors:
 - admin
+- Daniele Rinaldo
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -29,7 +30,7 @@ featured: false
 
 links:
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357701
-url_code: '#'
+# url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
