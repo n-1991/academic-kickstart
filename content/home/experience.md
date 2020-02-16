@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -17,24 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Research Consultant"
+  company = "United Nations Conference on Trade and Development (UNCTAD)"
+  company_url = ""
+  location = "Geneva, Switzerland"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = """
 
- 
 [[experience]]
   title = "Economics Research Intern"
   company = "World Intellectual Property Organization (WIPO)"
-  company_url = "https://www.wipo.int/portal/en/index.html"
+  company_url = ""
   location = "Geneva, Switzerland"
-  date_start = "2014-11-01"
+  date_start = "2014-12-01"
   date_end = "2015-07-01"
-  description = """"""
-  
-  [[experience]]
-  title = "Project Coordinator"
-  company = "Sidley Austin LLP"
-  company_url = "https://www.sidley.com/en/us/locations/offices/geneva/"
-  location = "Geneva, Switzerland"
-  date_start = "2013-10-01"
-  date_end = "2014-10-01"
   description = """"""
 
 +++
