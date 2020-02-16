@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
 
 interests:
-- Decision-Making under Uncertainty 
+- Uncertainty and Risk
 - Environmental and Resource Economics 
-- Firm behaviour - theory and empirical analysis
+- Firm Behaviour - theory and empirical analysis
 
 education:
   courses:
