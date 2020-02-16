@@ -22,7 +22,7 @@ publication_short: ""
 abstract: We study the stochastic dynamics of a renewable resource harvested by a monopolist firm. We introduce a framework where harvesting sequentially affects the resource's potential to regenerate. We model the decisions of a monopolist firm whose objective is to find the profit-maximizing harvesting policy while simultaneously detecting in the quickest time possible the change in regime. The model explicitly considers non-stationary dynamics in order to represent the sequential nature of the detection process. Additionally, we study the probability of extinction in each period, and show how it may be optimal for the monopolist to stop or modify extraction to allow the resource to regenerate.
 
 # Summary. An optional shortened abstract.
-summary: We study the stochastic dynamics of a renewable resource harvested by a firm facing a downward sloping demand curve and endogenous regime shifts, while simultaneously detecting in the quickest time possible the change in regime.
+# summary: We study the stochastic dynamics of a renewable resource harvested by a firm facing a downward sloping demand curve and endogenous regime shifts, while simultaneously detecting in the quickest time possible the change in regime.
 
 tags:
 - Source Themes
