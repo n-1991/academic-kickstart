@@ -13,16 +13,16 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: We present a model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion. This allows to represent both the continuous Gaussian volatility and the discon- tinuous uncertainty related to information arrival, sudden changes and large shocks. The model shows how both sources of uncertainty negatively impact the optimal investment and disinvestment policies, and how the presence of large negative jumps can drastically affect the firm’s ability to recover. Our results show that the standard Gaussian framework consistently underesti- mates the negative effect of uncertainty on firm investment decisions. We test these predictions on a panel dataset of UK firms: we first structurally estimate the uncertainty parameters using multinomial maximum likelihood and differential evolution techniques and subsequently study their impact on firm investment rates, validating our model predictions."
+abstract: We present a model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion. This allows to represent both the continuous Gaussian volatility and the discontinuous uncertainty related to information arrival, sudden changes and large shocks. The model shows how both sources of uncertainty negatively impact the optimal investment and disinvestment policies, and how the presence of large negative jumps can drastically affect the firm’s ability to recover. Our results show that the standard Gaussian framework consistently underestimates the negative effect of uncertainty on firm investment decisions. We test these predictions on a panel dataset of UK firms: we first structurally estimate the uncertainty parameters using multinomial maximum likelihood and differential evolution techniques and subsequently study their impact on firm investment rates, validating our model predictions."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: A model of firm investment under uncertainty and partial irreversibility in which uncertainty is represented by a jump diffusion.
 tags:
 - Source Themes
 featured: false
