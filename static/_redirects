@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://neha-deopa.netlify.com/* https://nehadeopa.com/:splat 301!
