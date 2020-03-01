@@ -34,7 +34,7 @@ links:
 - icon: far fa-file-pdf
   icon_pack: fa
   url: img/monopoly.pdf
-url_dataset: img/monopoly.pdf
+url_pdf: img/monopoly.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: '#'
