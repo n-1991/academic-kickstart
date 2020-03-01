@@ -28,7 +28,7 @@ tags:
 - Source Themes
 featured: false
 
-links:
+links: static/img/monopoly.pdf
 - name: Slides
   url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
 # url_code: '#'
