@@ -33,7 +33,7 @@ links:
   url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
 - icon: far fa-file-pdf
   icon_pack: fa
-  link: img/monopoly.pdf
+  url: img/monopoly.pdf
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
