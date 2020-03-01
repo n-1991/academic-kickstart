@@ -29,8 +29,8 @@ tags:
 featured: false
 
 links: 
-- name: Slides
-  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
+# - name: Slides
+#  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
 url_pdf: img/monopoly.pdf
 # url_poster: '#'
 # url_project: ''
