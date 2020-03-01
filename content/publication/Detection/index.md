@@ -31,7 +31,9 @@ featured: false
 links: 
 - name: Slides
   url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
- url_code: static/img/monopoly.pdf
+- icon: pdf-file
+  icon_pack: fab
+  link: static/img/monopoly.pdf
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
