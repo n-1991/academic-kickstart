@@ -120,7 +120,7 @@ phone = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "NehaDeopa"
 
 ############################
 ## Regional Settings
@@ -153,7 +153,7 @@ docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 sharing = true
 
 # Link authors to their profile page? (true/false)
-link_authors = false
+link_authors = true
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
