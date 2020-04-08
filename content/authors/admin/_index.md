@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:neha.deopa@graduateinstitute.ch"
-# icon: twitter
+  icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 # icon: google-scholar
