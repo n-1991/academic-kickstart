@@ -1,73 +1,97 @@
 ---
 # Display name
-name: Neha Deopa
+
+name:  Rémi Viné Spinelli
 
 # Username (this should match the folder name)
+
 authors:
+
 - admin
 
 # Is this the primary user of the site?
+
 superuser: true
 
 # Role/position
+
 role: PhD Student
 
 # Organizations/Affiliations
+
 organizations:
-- name: The Graduate Institute of International and Development Studies 
+
+- name: Graduate Institute - Geneva
   url: "https://graduateinstitute.ch/Homepage"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
+
+bio: My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, etc.)
 
 interests:
-- Uncertainty and Risk
-- Environmental and Resource Economics 
-- Firm Behaviour - theory and empirical analysis
+
+- Migration Economics
+- Remittances
+- Migration Reforms
 
 education:
   courses:
+
   - course: PhD in International Economics
-    institution: The Graduate Institute of International and Development Studies, Geneva
-    year: 2020
-  - course: Master in International Economics
-    institution: The Graduate Institute of International and Development Studies, Geneva
-    year: 2014
-  - course: BA (Honours) Economics
-    institution: Shri Ram College of Commerce, University of Delhi
-    year: 2012
+    institution: Graduate Institute - Geneva
+    year: 2021 (expected)
+  - course: MSc in International and Development Economics
+    institution: Paris-Dauphine University (Paris Sciences Lettres)
+    year: 2015
+  - course: BSc in Economics
+    institution: Lorraine University
+    year: 2013
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+
+# For available icons, see: 
+
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
+
 - icon: envelope
   icon_pack: fas
-  link: "mailto:neha.deopa@graduateinstitute.ch"
-  # icon: twitter
-  # icon_pack: fab
-  # link: https://twitter.com/NehaDeopa
-# icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/n-1991
+  link: https://github.com/RemiVine
+
 # Link to a PDF of your resume/CV from the About widget.
+
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: img/cv.pdf
+
+# - icon: cv
+
+#   icon_pack: ai
+
+#   link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+
+email: ""
 
 # Organizational groups that you belong to (for People widget)
+
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# Researchers
-# Visitors
+
+user_groups:
+
+- Researchers
+- Visitors
+
 ---
 
-I am a fifth year PhD candidate at The Graduate Institute of International and Development Studies, Geneva. My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics.  
+I am a fourth year PhD candidate under the supervision of Professor Djajic. The common factor of my research is migration. I have been interested in different areas in the world, particularly Europe, Africa and Central Asia.
+
+
