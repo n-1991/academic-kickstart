@@ -23,11 +23,16 @@
   url = "#teaching"
   weight = 40
   
+# [[main]]
+#  name = "French Class"
+#  url = "#posts"
+#  weight = 50
+
 [[main]]
-  name = "French Class"
-  url = "#posts"
+  name = "Courses"
+  url = "courses/"
   weight = 50
-  
+
 [[main]]
   name = "Contact"
   url = "#contact"
