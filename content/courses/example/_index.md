@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Cours de compréhension basé sur le dessous des cartes
-summary: 
+linktitle: An Example Course
+summary: Cours de compréhension basé sur le dessous des cartes
 weight: 1
 
 # Page metadata.
