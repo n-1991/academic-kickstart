@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: BLABLABLA.
+abstract: The paper attempts to better understand the mechanisms underlying the costs of remittances. It does so using a multi-country analysis over the 2010s. More specifically, It tries to highlight whether and how the operators on the market adjust to a shock in the demand for remittances. To address endogneity  as well as severe measurement errors, I propose to use the climatic disasters that occurred in the country receiving remittances as an instrument. It appears that, overall, a demand shock on the market of remittances does push up costs up to a delay of 1 or 2 quarters. On the other hand, the catastrophe contemporaneously impacts the remittances.
 
 # Summary. An optional shortened abstract.
-summary: blablabla
+summary: 
 
 tags:
 - Source Themes
