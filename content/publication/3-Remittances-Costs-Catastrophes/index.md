@@ -30,7 +30,7 @@ featured: false
 links: 
 # - name: Slides
 #  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
-url_pdf: img/10-03-2020Remittances__costs__corridors
+url_pdf: img/10-03-2020Remittances__costs__corridors.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: '#'
@@ -38,7 +38,7 @@ url_pdf: img/10-03-2020Remittances__costs__corridors
 # url_video: '#'
 # - icon: far fa-file-pdf
 #  icon_pack: fa
-#  url: img/10-03-2020Remittances__costs__corridors
+#  url: img/10-03-2020Remittances__costs__corridors.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
