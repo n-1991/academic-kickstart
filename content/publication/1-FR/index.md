@@ -30,7 +30,7 @@ featured: false
 links: 
 # - name: Slides
 #  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
-url_pdf: img/monopoly.pdf
+url_pdf: img/Family_Migration___Africa_and_Europe.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: '#'
@@ -38,7 +38,7 @@ url_pdf: img/monopoly.pdf
 # url_video: '#'
 # - icon: far fa-file-pdf
 #  icon_pack: fa
-#  url: img/monopoly.pdf
+#  url: img/Family_Migration___Africa_and_Europe.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
