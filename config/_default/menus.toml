@@ -29,7 +29,7 @@
 #  weight = 50
 
 [[main]]
-  name = "Courses"
+  name = "Cours de français"
   url = "courses/"
   weight = 50
 
