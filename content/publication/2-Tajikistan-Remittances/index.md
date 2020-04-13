@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: BLABLABLA.
+abstract: Tajikistan between 2007 and 2011 was the most dependent on remittances in the world. I use survey data over this range of years and analyse the impact of remittances  in the household on the expenditure shares of different goods and services. I control for endogeneity and find that remittances does not seem to impact spending in human capital or basic goods (including food unless the household in among the poorest). On the other hand, it seems to increase the spending in secondary goods. Therefore, the paper provides some results that would suggest that remittances, even though undoubtedly worthwhile to reduce poverty, do not necessarily help improve the long term development of Tajikistan.
 
 # Summary. An optional shortened abstract.
-summary: blablabla
+summary: 
 
 tags:
 - Source Themes
