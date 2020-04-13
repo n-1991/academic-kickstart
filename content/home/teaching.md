@@ -13,14 +13,13 @@ subtitle = ""
 weight = 90
 +++
 
--	**Macroeconomics**
-	-	_Cedric Tille - Autumn 2018_
--	**International Trade**
-	-	_Robert Koopman - Spring 2018 ; Spring 2017_
+-	**Capstone Project - Trade and Finance track**
+	-	_Ugo Panizza - Spring 2019 to Autumn 2019_  
 -	**Statistical Methods for Social Sciences**
-	-	_Jean Swanson  - Autumn 2017_
--	**International Finance**
-	-	_Alessandro Missale  - Autumn 2016_
--	**International Development**
-	-	_Slobodan Djajic  - Spring 2016_
-
+	-	_Jean Swanson  - Autumn 2018 ; Autumn 2019_
+-	**Qualitative Methods**
+	-	_Ashley Thornton - Spring 2018_
+-	**The Law and Economics of Bargaining in International Agreements**
+	-	_Thimoty Swanson - Spring 2018_  
+-	**Trade and Development**
+	-	_Julia Cajal - Autumn 2017_
