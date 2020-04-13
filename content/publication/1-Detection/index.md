@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: .
+abstract: BLABLABLA.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: blablabla
 
 tags:
 - Source Themes
