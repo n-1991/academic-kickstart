@@ -20,7 +20,7 @@ weight = 90
 -	**Qualitative Methods**
 	-	_Ashley Thornton - Spring 2018_
 -	**The Law and Economics of Bargaining in International Agreements**
-	-	_Thimoty Swanson - Spring 2018_  
+	-	_Timothy Swanson - Spring 2018_  
 - **Asian Security System**
   - _Lanxin Xiang - Autumn 2017_
 -	**Trade and Development**
