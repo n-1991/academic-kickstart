@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-Voici le lien vers la vidéo :
+Voici le lien vers la vidéo : [I'm a link](https://www.google.com)
 
 ## Tip 1
 
