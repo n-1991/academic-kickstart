@@ -8,13 +8,13 @@ draft: false
 menu:
   example:
     parent: Example Topic
-    weight: 1
+    weight: 0
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 
-Voici le lien pour la vidéo :
+Voici le lien pour la vidéo : {{< youtube https://www.youtube.com/watch?v=3pI6ACXJWeU >}}
 
 ## Tip 1
 
