@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Cours de compréhension orale
+linktitle: Cours de compréhension orale (niveau B2)
 summary: Basé sur l'emission d'ARTE intitulée Le dessous des cartes
 weight: 1
 
@@ -21,5 +21,14 @@ menu:
     weight: 1
 ---
 
-test d'écriture d'un peu près n'importe quoi ! 
+Ces exercices consistent simplement à de la compréhension orale ainsi qu'un travail plus léger d'écriture. 
 
+Chaque exercice requiert de visionner une vidéo indiquée et comporte un certain nombre de questions auxquelles il faudra répondre en utilisant uniquement les informations transmises dans la vidéo. 
+
+En fonction de la difficulté, chacun peut décider de réduire la vitesse, d'avoir des sous-titres, de voir la vidéo plusieurs fois. Cela dépend de ce que vous voulez exercer : une compréhension minutieuse demandera probablement plusieurs écoutes, tandis qu'une compréhension plus lâche pourra ne nécessiter qu'une seule écoute. 
+
+Certaines questions appellent à des réponses courtes, alors une seule phrase simple suffira. En revanche, parfois un développement un peu plus long est exigé, auquel cas il faudra bien porter attention à l'écriture : syntaxe, orthographe. Dans tous les cas, pour une meilleure compréhension ainsi qu'un travail de rédaction plus fin, il est conseillé d'éviter la paraphrase (répéter les propos tenus dans la vidéo) et au contraire de bâtir sa propre phrase.
+
+
+
+Enfin, j'ai peut-être laissé quelques fautes moi-même dans les questions, n'hésitez pas à le indiquer ! 
