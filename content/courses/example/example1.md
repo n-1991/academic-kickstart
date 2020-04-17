@@ -15,8 +15,6 @@ weight: 1
 ---
 
 Voici le lien vers la vidéo : [Le Brésil et le covid-19](https://www.youtube.com/watch?v=3pI6ACXJWeU )
--	**Capstone Project - Trade and Finance track**
-	-	_Ugo Panizza - Spring 2019 to Autumn 2019_  
 
 1) Quelle est l’orientation politique de Jair Bolsonaro et que pense-t-il du coronavirus ?
 
