@@ -31,4 +31,4 @@ Certaines questions appellent à des réponses courtes, alors une seule phrase s
 
 
 
-Enfin, j'ai peut-être laissé quelques fautes moi-même dans les questions, n'hésitez pas à le indiquer ! 
+Enfin, j'ai peut-être laissé quelques fautes moi-même dans les questions, n'hésitez pas à les indiquer ! 
