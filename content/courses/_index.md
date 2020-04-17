@@ -1,5 +1,5 @@
 ---
-title: fdvkdl,fbsvv de français
+title: Cours de français
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
