@@ -34,5 +34,5 @@ Voici le lien vers la vidéo : [Le Brésil et le covid-19](https://www.youtube.c
 
 6) Quelle est la grande faiblesse du système de santé au Brésil pour faire face à l’épidémie ?
 
-7)Les Brésiliens manifestent-ils, comme en France, de leur balcon les soirs pour soutenir l’effort du personnel médical ? 
+7) Les Brésiliens manifestent-ils, comme en France, de leur balcon les soirs pour soutenir l’effort du personnel médical ? 
 
