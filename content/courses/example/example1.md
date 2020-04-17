@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-Voici le lien vers la vidéo : [I'm a link](https://www.google.com)
+Voici le lien vers la vidéo : [Le Brésil et le covid-19](youtube https://www.youtube.com/watch?v=3pI6ACXJWeU )
 
 ## Tip 1
 
