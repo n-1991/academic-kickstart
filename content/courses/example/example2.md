@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-Voici le lien vers la vidéo : 
+Voici le lien vers la vidéo : [La Chine, Taïwan et le covid-19](https://www.youtube.com/watch?v=qQPZkmnScUw&t=1s)
 
 ## Tip 3
 
