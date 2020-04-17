@@ -15,8 +15,6 @@ weight: 2
 ---
 
 Voici le lien vers la vidéo : 
-# [I'm a link](https://www.google.com)
-# {{< youtube https://www.youtube.com/watch?v=qQPZkmnScUw&t=1s >}}
 
 ## Tip 3
 
