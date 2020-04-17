@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-Voici le lien pour la vidéo : {{< youtube https://www.youtube.com/watch?v=3pI6ACXJWeU >}}
+Voici le lien vers la vidéo : {{< youtube https://www.youtube.com/watch?v=3pI6ACXJWeU >}}
 
 ## Tip 1
 
