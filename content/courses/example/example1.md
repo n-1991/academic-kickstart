@@ -1,5 +1,5 @@
 ---
-title: Exercice 1
+title: Exercice 100
 linktitle: Le Brésil et le covid-19
 toc: true
 type: docs
