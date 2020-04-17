@@ -1,6 +1,6 @@
 ---
-title: Example Page 2
-linktitle: Tips 3-4
+title: Exercice 2
+linktitle: La Chine, Taïwan et le covid-19
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-Here are some more tips for getting started with Academic:
+Voici le lien vers la vidéo :
 
 ## Tip 3
 
