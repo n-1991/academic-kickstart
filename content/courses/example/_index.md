@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Cours de compréhension basé sur le dessous des cartes
+linktitle: Cours de compréhension orale
+summary: Basé sur l'emission d'ARTE intitulée Le dessous des cartes
 weight: 1
 
 # Page metadata.
