@@ -1,7 +1,7 @@
 ---
 # Display name
 
-name:  Rémi Viné-Spinelli
+name:  Rémi Viné
 
 # Username (this should match the folder name)
 
