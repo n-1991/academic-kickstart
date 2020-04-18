@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Cours de compréhension orale (niveau B2)
-summary: Basé sur l'émission d'ARTE intitulée Le dessous des cartes
+summary: Basé sur l'émission d'ARTE intitulée _Le dessous des cartes_
 weight: 1
 
 # Page metadata.
