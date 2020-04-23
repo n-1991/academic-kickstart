@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Cours de compréhension orale (niveau B2 TESTTEST)
+linktitle: Cours de compréhension orale (niveau B2)
 summary: Basé sur l'émission d'ARTE intitulée « Le dessous des cartes »
 weight: 1
 
@@ -23,7 +23,7 @@ menu:
 
 Ces exercices consistent simplement à de la compréhension orale ainsi qu'un travail plus léger d'écriture. 
 
-Chaque exercice requiert de visionner une vidéo indiquée et comporte un certain nombre de questions auxquelles il faudra répondre en utilisant uniquement les informations transmises dans la vidéo. 
+Chaque exercice requiert de visionner une vidéo indiquée et comporte un certain nombre de questions auxquelles il faudra répondre en utilisant uniquement les informations transmises dans la vidéo (sauf si je précise que c'est une question plus générale). 
 
 En fonction de la difficulté, chacun peut décider de _réduire la vitesse, d'avoir des sous-titres, de voir la vidéo plusieurs fois_. Cela dépend de ce que vous voulez exercer : une compréhension minutieuse demandera probablement plusieurs écoutes, tandis qu'une compréhension plus lâche pourra ne nécessiter qu'une seule écoute. 
 
