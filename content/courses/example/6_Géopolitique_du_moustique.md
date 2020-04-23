@@ -17,7 +17,7 @@ weight: 6
 Voici le lien vers la vidéo : [La géopolitique du moustique](https://www.youtube.com/watch?v=W2pdUKlxdL8)
 
 
-1) Généralement, qui appelle-t-on en français un « _académicien_ » ? (question hors vidéo)
+1) Généralement, qui appelle-t-on en français un « _académicien_ » ? (**question hors vidéo**)
 
 2) Quelle maladie a sévi au Burundi en 2016 ?
 
