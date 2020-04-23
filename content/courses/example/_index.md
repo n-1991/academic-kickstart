@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Cours de compréhension orale (niveau B2)
+linktitle: Cours de compréhension orale (niveau B2 TESTTEST)
 summary: Basé sur l'émission d'ARTE intitulée « Le dessous des cartes »
 weight: 1
 
