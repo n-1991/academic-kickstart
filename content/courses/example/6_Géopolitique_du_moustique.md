@@ -17,15 +17,15 @@ weight: 6
 Voici le lien vers la vidéo : [La géopolitique du moustique](https://www.youtube.com/watch?v=W2pdUKlxdL8)
 
 
-1) Généralement, qui appelle-t-on en français un « Académicien » ? (question hors vidéo)
+1) Généralement, qui appelle-t-on en français un « _académicien_ » ? (question hors vidéo)
 
 2) Quelle maladie a sévi au Burundi en 2016 ?
 
 3) Quels sont les facteurs d’aggravation de l’ampleur de cette maladie ?
 
-4) Combien d’espèces parmi les moustiques peuvent être dangereuses pour l’être humains ?
+4) Combien d’espèces parmi les moustiques peuvent être dangereuses pour l’être humain ?
 
-5) Pourquoi est-ce que la femelle moustique qui pique les être humains ? 
+5) Pourquoi est-ce que la femelle moustique (et non le mâle) qui pique les être humains ? 
 
 6) A combien certains chercheurs (et non l’ONU) estiment-ils le nombre de morts dus aux moustiques ?
 
