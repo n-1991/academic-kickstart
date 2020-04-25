@@ -27,7 +27,7 @@ Voici le lien vers la vidéo : [La géopolitique du moustique](https://www.youtu
 
 5) Pourquoi est-ce que la femelle moustique (et non le mâle) qui pique les être humains ? 
 
-6) A combien certains chercheurs (et non l’ONU) estiment-ils le nombre de morts dus aux moustiques ?
+6) A combien certains chercheurs (et non l’OMS) estiment-ils le nombre de morts dus aux moustiques ?
 
 7) Quels changements dans la vie des hommes ont survenu lors de la révolution néolithique ?
 
