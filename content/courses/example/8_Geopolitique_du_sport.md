@@ -8,10 +8,10 @@ draft: false
 menu:
  example:
     parent: Les exercices
-    weight: 7
+    weight: 8
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 7
+weight: 8
 ---
 
 Voici le lien vers la vidéo : [Géopolitique du sport](https://www.youtube.com/watch?v=ZXUh37blN08&t=7s)
