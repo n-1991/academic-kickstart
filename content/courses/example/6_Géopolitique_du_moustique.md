@@ -25,7 +25,7 @@ Voici le lien vers la vidéo : [La géopolitique du moustique](https://www.youtu
 
 4) Combien d’espèces parmi les moustiques peuvent être dangereuses pour l’être humain ?
 
-5) Pourquoi est-ce que la femelle moustique (et non le mâle) qui pique les être humains ? 
+5) Pourquoi est-ce la femelle moustique (et non le mâle) qui pique les être humains ? 
 
 6) A combien certains chercheurs (et non l’OMS) estiment-ils le nombre de morts dus aux moustiques ?
 
