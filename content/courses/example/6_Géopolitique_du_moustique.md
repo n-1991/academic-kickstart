@@ -19,7 +19,7 @@ Voici le lien vers la vidéo : [La géopolitique du moustique](https://www.youtu
 
 1) Généralement, qui appelle-t-on en français un « _académicien_ » ? (**question hors vidéo**)
 
-2) Quelle maladie a sévi au Burundi en 2016 ?
+2) Quelle maladie a sévi au Burundi en 2017 ?
 
 3) Quels sont les facteurs d’aggravation de l’ampleur de cette maladie ?
 
