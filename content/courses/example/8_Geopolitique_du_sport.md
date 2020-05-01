@@ -26,7 +26,7 @@ Voici le lien vers la vidéo : [Géopolitique du sport](https://www.youtube.com/
 
 5) Comment la Jamaïque s’y prend-t-elle pour être compétitive dans le domaine de la course ?
 
-7) Quel est la « politique sportive » du Qatar ? Pour quelle raison ce petit pays investit-il autant dans le football?
+7) Quelle est la « politique sportive » du Qatar ? Pour quelle raison ce petit pays investit-il autant dans le football?
 
 8) Qu’est-ce que la « diplomatie des stades » ? Qu’y gagnent les pays africains ? Qu’y gagne la Chine ?
 
