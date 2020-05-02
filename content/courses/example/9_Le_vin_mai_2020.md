@@ -16,7 +16,7 @@ weight: 9
 
 Voici le lien vers la vidéo : [Le vin](https://www.youtube.com/watch?v=MZYzaExsubM)
 
-1) De quelle couleur est généralement le vin produit en Hongrie ? Quelle sont les spécificités du Tokay ?
+1) De quelle couleur est généralement le vin produit en Hongrie ? Quelles sont les spécificités du Tokay ?
 
 2) Vers quelle période la culture de la vigne aurait-elle débuté ? Dans quel contenant gardait-on le vin à cette époque ?
 
@@ -28,7 +28,7 @@ Voici le lien vers la vidéo : [Le vin](https://www.youtube.com/watch?v=MZYzaExs
 
 6) Comment explique-t-on l’augmentation en valeur des échanges liés au vin ?
 
-7) Quels symboles revêt la consommation du vin dans les pays émergents ?  
+7) Quels symboles la consommation du vin dans les pays émergents revêt-elle ?  
 
 8) Pourquoi ne compare-t-on pas le champagne et le cabernet ? Quelle est la différence fondamentale de catégorisation entre le champagne et le cabernet ?
 
