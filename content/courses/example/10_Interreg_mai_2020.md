@@ -34,6 +34,6 @@ Voici le lien vers la vidéo : [Programmes Interreg](https://www.youtube.com/wat
 
 9) Dans la philosophie des programmes Interreg, qu’est-ce qui est mis en avant : les souverainetés nationales ou bien les contraintes territoriales ?
 
-10) Comment caractériseriez-vous la position de l’intervenant quant à ces programme ?
+10) Comment caractériseriez-vous la position de l’intervenant quant à ces programmes ?
 
 
