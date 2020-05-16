@@ -30,7 +30,7 @@ Voici le lien vers la vidéo : [Les langues](https://www.youtube.com/watch?v=Yxv
 
 7) A l’aune des propos tenus dans la vidéo, comment caractériser le _soft power_ ?
 
-8) Quels outils du _soft power_ la France, notamment (mais pas que) par le truchement l’Organisation internationale de la francophonie (OIF), essaie-t-elle de développer ?
+8) Quels outils du _soft power_ la France, notamment (mais pas que) par le truchement de l’Organisation internationale de la francophonie (OIF), essaie-t-elle de développer ?
 
 9) Dans quelle région du monde vivra l’immense majorité des francophones dans quelques décennies ? 
 
