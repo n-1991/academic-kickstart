@@ -33,7 +33,7 @@ Voici le lien vers la vidéo : [Cyber et géopolitique](https://www.youtube.com/
 
 8) Quelle serait la stratégie russe concernant le _cyber_ ?
 
-9)  Concernant l’élection présidentielle au États-Unis, la présentatrice est-elle certaine que les _cyberattaques_ russes ont eu ampleur décrite ? Quel critère linguistique permet de répondre ?
+9)  Concernant l’élection présidentielle aux États-Unis, la présentatrice est-elle certaine que les _cyberattaques_ russes ont eu ampleur décrite ? Quel critère linguistique permet de répondre ?
 
 10) La profusion de _cyberattaques_ a créé un nouveau marché, lequel ?
 
