@@ -1,6 +1,6 @@
 ---
 title: Exercice 13
-linktitle: Les câbles sousmarins (mai 2020 - vidéo de mai 2018)
+linktitle: Les câbles sous-marins (mai 2020 - vidéo de mai 2018)
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -14,7 +14,7 @@ menu:
 weight: 13
 ---
 
-Voici le lien vers la vidéo : [Les câbles sousmarins](https://www.youtube.com/watch?v=qkkEMg_pWp0&t=1s)
+Voici le lien vers la vidéo : [Les câbles sous-marins](https://www.youtube.com/watch?v=qkkEMg_pWp0&t=1s)
 
 
 Les câbles sous-marins (mai 2020)
@@ -44,6 +44,6 @@ https://www.youtube.com/watch?v=qkkEMg_pWp0&t=1s
 
 11) La période actuelle est témoin d’un changement clé d’acteurs poseurs de câbles. Quels sont-ils et quelle est la différence clé avec les acteurs précédents ?
 
-[¹] Internet Corporation for Assigned Names and Numbers (ICANN, en français, la Société pour l'attribution des noms de domaine et des numéros sur Internet).
+[¹] _Internet Corporation for Assigned Names and Numbers_ (ICANN, en français, la Société pour l'attribution des noms de domaine et des numéros sur Internet).
 
 
