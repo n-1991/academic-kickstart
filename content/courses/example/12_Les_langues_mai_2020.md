@@ -1,6 +1,6 @@
 ---
 title: Exercice 12
-linktitle: Les Langues (mai 2020 - vidéo de décembre 2019)
+linktitle: Les langues (mai 2020 - vidéo de décembre 2019)
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -14,7 +14,7 @@ menu:
 weight: 12
 ---
 
-Voici le lien vers la vidéo : [Les Langues](https://www.youtube.com/watch?v=YxviOVgQu2U&t=1s)
+Voici le lien vers la vidéo : [Les langues](https://www.youtube.com/watch?v=YxviOVgQu2U&t=1s)
 
 1) Qu’est-ce qu’un interprète ? Qu’est-ce qui différencie un interprète d’un traducteur ? (la seconde question requiert de chercher la réponse en dehors de la vidéo)
 
