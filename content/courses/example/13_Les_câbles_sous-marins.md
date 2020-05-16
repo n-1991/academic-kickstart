@@ -17,11 +17,6 @@ weight: 13
 Voici le lien vers la vidéo : [Les câbles sous-marins](https://www.youtube.com/watch?v=qkkEMg_pWp0&t=1s)
 
 
-Les câbles sous-marins (mai 2020)
-
-https://www.youtube.com/watch?v=qkkEMg_pWp0&t=1s
-
-
 1) Quel est le matériau du câble implanté par deux entreprises étasuniennes en 2017 entre Virginia Beach et Bilbao ? Comment cette technologie fonctionne-t-elle (l’information se trouve plus tard dans la vidéo) ? Pourquoi le câble a-t-il un diamètre de quelques centimètre ?
 
 2) A la diffusion de la vidéo, combien de câbles du même type y avait-il ?
