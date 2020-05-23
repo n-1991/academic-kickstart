@@ -31,7 +31,7 @@ The cancellation of conferences and workshops has left several young scholars wi
 For the schedule see below. All timings are Central European Time (CET). Presentations will be 30 minutes, followed by a 10 minute discussion and 10 minutes for general Q&A.
 
 - Date: 4 - 5 June 2020
-- To attend please register [*here*](https://forms.gle/78SkAnMTrkpg1AoW6)
+- To attend and receive the video link, please register [*here*](https://forms.gle/78SkAnMTrkpg1AoW6)
 
 {{< figure library="true" src="day1.png" title="Day 1" lightbox="true" >}}
 {{< figure library="true" src="day2.png" title="Day 2" lightbox="true" >}}
