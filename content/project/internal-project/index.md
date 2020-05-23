@@ -1,8 +1,7 @@
 ---
 title: IHEID Virtual PhD Workshop
 summary: An example of using the in-built project page.
-tags:
-- 
+ 
 date: "2020-05-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
