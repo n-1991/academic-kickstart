@@ -1,6 +1,6 @@
 ---
 title: IHEID Virtual PhD Workshop
-summary: 
+summary: 4 - 5 June 2020
 tags:
 - ""
 date: "2020-05-21T00:00:00Z"
@@ -28,7 +28,7 @@ slides: example
 
 The cancellation of conferences and workshops has left several young scholars without an opportunity to present their research. The aim of this workshop is to provide PhD candidates (especially those on the job market) with feedback and support.
 
-For the schedule see below. Presentations will be 30 minutes, followed by a 10 minute discussion and 10 minutes for general Q&A.
+For the schedule see below. All timings are Central European Time (CET). Presentations will be 30 minutes, followed by a 10 minute discussion and 10 minutes for general Q&A.
 
 - Date: 4 - 5 June 2020
 - To register please click [*here*](https://forms.gle/78SkAnMTrkpg1AoW6)
