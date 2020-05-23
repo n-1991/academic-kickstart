@@ -15,7 +15,7 @@ links:
   url: static/Abstracts.pdf 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_abstracts: static/Abstracts.pdf
 url_video: ""
 
 # Slides (optional).
