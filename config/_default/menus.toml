@@ -26,7 +26,7 @@
  [[main]]
   name = "PhD Workshop"
   url = "#workshop"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Contact"
