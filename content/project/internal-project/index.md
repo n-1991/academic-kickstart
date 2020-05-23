@@ -30,9 +30,9 @@ For the schedule see below. Presentations will be 30 minutes, followed by a 10 m
 
 - **Date:** 4 - 5 June 2020
 - To register please click [*here*](https://forms.gle/78SkAnMTrkpg1AoW6)
-- Paper abstracts are provided [*here*] (static/Abstracts.pdf)
+- Paper abstracts are provided static/Abstracts.pdf
 
-{{< figure library="true" src="day1.png" title="A caption" lightbox="true" >}}
-{{< figure library="true" src="day2.png" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="day1.png" title="Day 1" lightbox="true" >}}
+{{< figure library="true" src="day2.png" title="Day 2" lightbox="true" >}}
 
 
