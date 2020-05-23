@@ -30,6 +30,8 @@ slides: example
 
 The cancellation of conferences and workshops has left several young scholars without an opportunity to present their research. The aim of this workshop is to provide PhD candidates (especially those on the job market) with feedback and support.
 
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Date:** 4 - 5 June 2020
+- **Time:** 9:00 - 12:30 13:30 - 16:00
+
 
 
