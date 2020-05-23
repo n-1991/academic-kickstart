@@ -1,6 +1,6 @@
 ---
 title: IHEID Virtual PhD Workshop
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - ""
 date: "2020-05-21T00:00:00Z"
@@ -16,10 +16,9 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+Slides (optional).
+Associate this project with Markdown slides.
+E.g. static/img/Abstracts.pdf
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
@@ -28,7 +27,7 @@ The cancellation of conferences and workshops has left several young scholars wi
 
 For the schedule see below. Presentations will be 30 minutes, followed by a 10 minute discussion and 10 minutes for general Q&A.
 
-- **Date:** 4 - 5 June 2020
+- Date: 4 - 5 June 2020
 - To register please click [*here*](https://forms.gle/78SkAnMTrkpg1AoW6)
 - Paper abstracts are provided static/Abstracts.pdf
 
