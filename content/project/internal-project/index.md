@@ -33,6 +33,6 @@ The cancellation of conferences and workshops has left several young scholars wi
 - **Date:** 4 - 5 June 2020
 - **Time:** 9:00 - 12:30 ; 13:30 - 16:00
 - To register please click [*here*](https://forms.gle/78SkAnMTrkpg1AoW6) 
-{{< figure src="featured.jpg" title="A caption" lightbox="true" >}}
+{{< figure src="day1.jpg" title="A caption" lightbox="true" >}}
 
 
