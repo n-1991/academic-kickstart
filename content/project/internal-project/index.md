@@ -11,11 +11,10 @@ external_link: ""
 links:
 - name: Registration
   url: https://forms.gle/78SkAnMTrkpg1AoW6
-Paper Abstracts:
-- static/Abstracts.pdf 
+- Paper Abstracts:
+static/Abstracts.pdf 
 url_code: ""
 url_pdf: ""
-url_abstracts: static/Abstracts.pdf
 url_video: ""
 
 # Slides (optional).
