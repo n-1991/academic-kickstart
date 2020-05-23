@@ -1,6 +1,6 @@
 ---
 title: Exercice 15
-linktitle: Les lieux saints (mai 2020 - vidéo de juillet 2018)
+linktitle: Les lieux saints (mai 2020 - vidéo de décembre 2018)
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
