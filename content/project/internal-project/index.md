@@ -1,8 +1,9 @@
 ---
-title: IHEID Virtual PhD Workshop
+title: Internal Project
 summary: An example of using the in-built project page.
- 
-date: "2020-05-23T00:00:00Z"
+tags:
+- Deep Learning
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,14 +13,23 @@ image:
   focal_point: Smart
 
 links:
-- name: Registration
-  url: https://forms.gle/78SkAnMTrkpg1AoW6
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-The cancellation of conferences and workshops has left several young scholars without an opportunity to present their research. The aim of this workshop is to provide PhD candidates (especially those on the job market) with feedback and support.
-- **Date** 4 - 5 June 2020   
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
 
-All timings are Central European Time (CET). Presentations will be 30 minutes, followed by a 10 minute discussion and 10 minutes for general Q&A.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+
