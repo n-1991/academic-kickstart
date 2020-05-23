@@ -11,18 +11,16 @@ external_link: ""
 links:
 - name: Registration
   url: https://forms.gle/78SkAnMTrkpg1AoW6
-- name: Paper Abstracts
-url: static/Abstracts.pdf 
 url_code: ""
 url_pdf: ""
 url_video: ""
 
-# Slides (optional).
+Paper Abstracts: static/Abstracts.pdf
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-Paper Abstracts: static/Abstracts.pdf
+
 ---
 
 The cancellation of conferences and workshops has left several young scholars without an opportunity to present their research. The aim of this workshop is to provide PhD candidates (especially those on the job market) with feedback and support.
