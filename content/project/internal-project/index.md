@@ -12,7 +12,7 @@ links:
 - name: Registration
   url: https://forms.gle/78SkAnMTrkpg1AoW6
 - name: Paper Abstracts
-static/Abstracts.pdf 
+url: static/Abstracts.pdf 
 url_code: ""
 url_pdf: ""
 url_video: ""
