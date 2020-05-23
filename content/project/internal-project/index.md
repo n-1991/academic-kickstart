@@ -26,11 +26,12 @@ slides: example
 
 The cancellation of conferences and workshops has left several young scholars without an opportunity to present their research. The aim of this workshop is to provide PhD candidates (especially those on the job market) with feedback and support.
 
-Presentations will be 30 minutes, followed by a 10 minute discussion and 10 minutes for general Q&A.
+For the schedule see below. Presentations will be 30 minutes, followed by a 10 minute discussion and 10 minutes for general Q&A.
 
 - **Date:** 4 - 5 June 2020
-- **Time:** 9:00 - 12:30 ; 13:30 - 16:00 (Central European Time)
-- To register please click [*here*](https://forms.gle/78SkAnMTrkpg1AoW6) 
+- To register please click [*here*](https://forms.gle/78SkAnMTrkpg1AoW6)
+- Paper abstracts are provided [*here*] (static/Abstracts.pdf)
+
 {{< figure library="true" src="day1.png" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="day2.png" title="A caption" lightbox="true" >}}
 
