@@ -30,4 +30,7 @@ slides: example
 
 The cancellation of conferences and workshops has left several young scholars without an opportunity to present their research. The aim of this workshop is to provide PhD candidates (especially those on the job market) with feedback and support.
 
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+
 
