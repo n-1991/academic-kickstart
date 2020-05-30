@@ -1,4 +1,20 @@
-https://www.youtube.com/watch?v=4HGjrN9to88
+---
+title: Exercice 17
+linktitle: La Chine et Hongkong (mai 2020 - vidéo de mai 2020)
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+menu:
+ example:
+    parent: Les exercices
+    weight: 17
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 17
+---
+
+Voici le lien vers la vidéo : [La Chine et Hongkong](https://www.youtube.com/watch?v=4HGjrN9to88)
 
 1) Comment les récentes positions politiques chinoises ont-elles été reçues par les Hongkongais ?
 
