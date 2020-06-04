@@ -1,8 +1,20 @@
+---
+title: Exercice 18
+linktitle: La voiture et la ville (juin 2020 - vidéo de mai 2018)
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+menu:
+ example:
+    parent: Les exercices
+    weight: 18
 
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 11
+---
 
-
-
-https://www.youtube.com/watch?v=fPd_lXAM3pY
+Voici le lien vers la vidéo : [La voiture et la ville](https://www.youtube.com/watch?v=fPd_lXAM3pY)
 
 1) La photo de départ de la vidéo montre un projet de bus innovant, quand pouvons-nous espérer voir le projet se concrétiser (si jamais cela est possible) ?
 
