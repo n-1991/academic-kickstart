@@ -38,3 +38,11 @@ My all time favourite books:
 - [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke
 - [The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy?ac=1&from_search=true&qid=FThXJhmsxL&rank=1) by Douglas Adams
 
+Books I plan to read in the coming months:
+
+- [Reaper's Gale](https://www.goodreads.com/book/show/459064.Reaper_s_Gale) - Malazan Book of the Fallen by Steven Erikson 
+- [Consider Phlebas](https://www.goodreads.com/book/show/8935689-consider-phlebas) - Culture by  Iain M. Banks
+- [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) - by Peter Watts 
+- [Circe](https://www.goodreads.com/book/show/35959740-circe) - by Madeline Miller 
+
+{{< figure src="https://github.com/n-1991/academic-kickstart/blob/master/pic.jpg" title="Image credit: [Jack Jones](https://www.artstation.com/artwork/A9wGWo) " >}}
