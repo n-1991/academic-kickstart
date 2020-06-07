@@ -70,4 +70,4 @@ social:
 # Visitors
 ---
 
-I am a fifth year PhD candidate at The Graduate Institute of International and Development Studies, Geneva. My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics.  
+I am a fifth year PhD candidate at The Graduate Institute of International and Development Studies, Geneva. My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on environmental economics and firm dynamics. In my free time I enjoy reading science fiction and fantasy. 
