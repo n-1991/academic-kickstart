@@ -45,4 +45,5 @@ Books I plan to read in the coming months:
 - [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) - by Peter Watts 
 - [Circe](https://www.goodreads.com/book/show/35959740-circe) - by Madeline Miller 
 
-{{< figure src="https://github.com/n-1991/academic-kickstart/blob/master/academic.png" title="Image credit: [Jack Jones](https://www.artstation.com/artwork/A9wGWo) " >}}
+![png](./academic.png)
+# {{< figure src="https://github.com/n-1991/academic-kickstart/blob/master/academic.png" title="Image credit: [Jack Jones](https://www.artstation.com/artwork/A9wGWo)" >}}
