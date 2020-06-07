@@ -48,4 +48,4 @@ Books I plan to read in the coming months:
 ![png](./academic.png)
 Image credit: [Jack Jones](https://www.artstation.com/artwork/A9wGWo)
 
-# {{< figure src="https://github.com/n-1991/academic-kickstart/blob/master/academic.png" title="Image credit: [Jack Jones](https://www.artstation.com/artwork/A9wGWo)" >}}
+{{< figure src="static/img/academic.png" title="Image credit: [Jack Jones](https://www.artstation.com/artwork/A9wGWo)" >}}
