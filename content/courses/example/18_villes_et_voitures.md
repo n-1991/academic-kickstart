@@ -26,6 +26,6 @@ Voici le lien vers la vidéo : [La voiture et la ville](https://www.youtube.com/
 
 5) Quelles techniques sont utilisées en Europe pour réduire la pollution engendrées par les voitures ? Sont-elles efficaces ? Quelles critiques pouvez-vous soulever ?
 
-7) Quels avantages aurait la pratique du vélo pour les déplacements quotidiens ?
+6) Quels avantages aurait la pratique du vélo pour les déplacements quotidiens ?
 
-8) Mentionnée par la présentatrice quelle dernière option permettrait de réduire la circulation et la congestion des villes ?
+7) Mentionnée par la présentatrice quelle dernière option permettrait de réduire la circulation et la congestion des villes ?
