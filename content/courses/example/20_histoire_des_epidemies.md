@@ -1,8 +1,22 @@
+---
+title: Exercice 20
+linktitle: Histoire des épidémies (juin 2020 - vidéo de mai 2020)
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+menu:
+ example:
+    parent: Les exercices
+    weight: 20
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 20
+---
+
+Voici le lien vers la vidéo : [Histoire des épidémies](https://www.youtube.com/watch?v=EyL4BIrSVlk)
 
 
-
-
-https://www.youtube.com/watch?v=EyL4BIrSVlk
 
 1) Pour quelles raisons le pangolin est-elle une espèce en voie d’extinction ?
 
