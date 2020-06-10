@@ -18,7 +18,7 @@ Voici le lien vers la vidéo : [Histoire des épidémies](https://www.youtube.co
 
 
 
-1) Pour quelles raisons le pangolin est-elle une espèce en voie d’extinction ?
+1) Pour quelles raisons le pangolin est-il un animal en voie d’extinction ?
 
 2) Quelles raisons majeures le croissant fertile et la vallée du Gange furent les premiers emplacements où les épidémies se propagèrent ?
 
