@@ -17,7 +17,7 @@ weight: 7
 Voici le lien vers la vidéo : [Un monde sans oiseaux](https://www.youtube.com/watch?v=WoaJCEztCsg)
 
 
-1) Sur la photo de départ, nous pouvons voir des grues grises en Israël. Elle vont probablement arrêter leur migration au moyen-orient plutôt que d’aller plus au sud vers l’Afrique, pourquoi ce changement de comportement ?
+1) Sur la photo de départ, nous pouvons voir des grues grises en Israël. Elles vont probablement arrêter leur migration au moyen-orient plutôt que d’aller plus au sud vers l’Afrique, pourquoi ce changement de comportement ?
 
 
 2) Quelle est la part du nombre d’espèce total présente dans la zone tropicale du continent américain ?
