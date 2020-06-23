@@ -2,6 +2,7 @@
 title: "Coronagraben. Culture and social distancing in times of COVID-19"
 authors:
 - admin
+- Piergiuseppe Fortunato
 date: "2020-06-07T00:00:00Z"
 doi: ""
 
