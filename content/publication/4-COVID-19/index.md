@@ -28,7 +28,9 @@ tags:
 featured: false
 
 links:
- url_pdf: img/coronagraben.pdf
+- name: PDF
+  url: img/coronagraben.pdf
+# url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
