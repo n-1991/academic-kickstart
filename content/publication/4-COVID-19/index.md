@@ -28,9 +28,9 @@ tags:
 featured: false
 
 links:
-# - name: PDF
-#  url: img/coronagraben.pdf
- url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635287 
+ - name: PDF
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635287 
+# url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635287 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
