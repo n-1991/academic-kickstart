@@ -34,7 +34,7 @@ projects: []
 My all time favourite books:
 
 - [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice) - Malazan Book of the Fallen by Steven Erikson 
-- [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) - Remembrance of Earth's Past by Liu Cixin 
+- [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) - Remembrance of Earth's Past by Liu Cixin 
 - [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke
 - [The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy?ac=1&from_search=true&qid=FThXJhmsxL&rank=1) by Douglas Adams
 
