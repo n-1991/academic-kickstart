@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
- - name: Featured-lavoce
+ - name: lavoce
 url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635287 
 # url_code: '#'
