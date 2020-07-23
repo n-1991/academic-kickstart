@@ -30,6 +30,8 @@ featured: false
 links:
 - name: Featured in lavoce
   url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
+- name: Covid Economics (Issue 39)
+  url: https://cepr.org/content/covid-economics
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635287 
 # url_code: '#'
 # url_dataset: '#'
