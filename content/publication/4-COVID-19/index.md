@@ -28,10 +28,12 @@ tags:
 featured: false
 
 links:
-- name: Featured in lavoce
-  url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
 - name: Covid Economics (Issue 39)
   url: https://cepr.org/sites/default/files/CovidEconomics39.pdf
+- name: LSE EUROPP blog 
+  url: https://blogs.lse.ac.uk/europpblog/2020/09/15/social-distancing-why-has-compliance-been-so-different-across-europe/  
+- name: Featured in lavoce
+  url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635287 
 # url_code: '#'
 # url_dataset: '#'
