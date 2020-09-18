@@ -32,7 +32,9 @@ featured: false
 links: 
 - name: Latest Version
 url: img/Monopoly_Detection_EcologicalRegimes.pdf
-url_pdf: https://arxiv.org/abs/2005.11500
+- name: arXiv
+url: https://arxiv.org/abs/2005.11500
+url_pdf: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: '#'
