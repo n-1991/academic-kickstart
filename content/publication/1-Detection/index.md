@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links: 
-# - name: Latest Version
-# url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
+- name: Latest Version
+url: img/Monopoly_Detection_EcologicalRegimes.pdf
 url_pdf: https://arxiv.org/abs/2005.11500
 # url_poster: '#'
 # url_project: ''
@@ -40,7 +40,7 @@ url_pdf: https://arxiv.org/abs/2005.11500
 # url_video: '#'
 # - icon: far fa-file-pdf
 #  icon_pack: fa
-url: img/Monopoly_Detection_EcologicalRegimes.pdf
+# url: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
