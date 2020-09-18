@@ -30,8 +30,6 @@ tags:
 featured: false
 
 links: 
-- name: Latest Version
-url: img/Monopoly_Detection_EcologicalRegimes.pdf
 - name: arXiv
 url: https://arxiv.org/abs/2005.11500
 url_pdf: img/Monopoly_Detection_EcologicalRegimes.pdf
