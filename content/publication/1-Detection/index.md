@@ -22,7 +22,7 @@ publication_short: ""
 abstract: We study the stochastic dynamics of a renewable resource harvested by a monopolist facing a downward sloping demand curve. We introduce a framework where harvesting sequentially affects the resource's potential to regenerate, resulting in an endogenous ecological regime shift. In a multi-period setting, the firm's objective is to find the profit-maximizing harvesting policy while simultaneously detecting in the quickest time possible the change in regime. Encapsulating the idea of environmental surveillance, the use of quickest detection method allows us to easily translate our framework to real-time detection. Solving analytically, we show that a negative regime shift induces an aggressive extraction behaviour due to a combination of faster detection, a sense of urgency, and higher markups. Precautionary behaviour can result due to increasing resource rent. We study the probability of extinction and show the emergence of catastrophe risk which can be both reversible and irreversible.
 
 # Summary. An optional shortened abstract.
-summary: An earlier version of this paper has been circulated under the title Scenes from a Monopoly: Renewable Resources and Quickest Detection of Regime Shifts.
+summary: An earlier version of this paper has been circulated under the title Scenes from a Monopoly Renewable Resources and Quickest Detection of Regime Shifts.
 tags:
 
 - Source Themes
