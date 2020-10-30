@@ -41,9 +41,11 @@ My all time favourite books:
 Books I plan to read in the coming months:
 
 - [Reaper's Gale](https://www.goodreads.com/book/show/459064.Reaper_s_Gale) - Malazan Book of the Fallen by Steven Erikson 
-- [Consider Phlebas](https://www.goodreads.com/book/show/8935689-consider-phlebas) - Culture by  Iain M. Banks
+- [Consider Phlebas](https://www.goodreads.com/book/show/8935689-consider-phlebas) - Culture series by  Iain M. Banks
 - [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) - by Peter Watts 
-- [Circe](https://www.goodreads.com/book/show/35959740-circe) - by Madeline Miller 
+- [The Forever War ](https://www.goodreads.com/book/show/21611.The_Forever_War) - by Joe Haldeman
+- [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) - by  by Olaf Stapledon
+
 
 
 ![png](./academic.png)
