@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in International Economics
     institution: The Graduate Institute of International and Development Studies, Geneva
-    year: 2020
+    year: 2021
   - course: Master in International Economics
     institution: The Graduate Institute of International and Development Studies, Geneva
     year: 2014
