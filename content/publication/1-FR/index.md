@@ -1,5 +1,5 @@
 ---
-title: "Family Reunification"
+title: "Economic Drivers of Family Reunification in a Context of International Migration"
 authors:
 - admin
 date: "2019-12-07T00:00:00Z"
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper aims to analyze family reunification behavior of migrants whose spouses are still in the source country. Does s/he reunify? Where? When? It is based on a simple model of a utility-maximizing behavior of a representative household composed of two spouses. An illustration of South to North migration using MAFE database is provided with the use of survival analyses methods to test the timing of reunification. 
+abstract: This paper aims to analyze family reunification behavior of migrants whose spouses are still in the source country. Does s/he reunify? Where? When? Family-based migration requires a closer look to sequential migrations where migration involves an initial stage of separation. It is based on a simple model of a discounted utility-maximizing behavior of a representative household composed of two spouses. An illustration of South to North migration using MAFE database is provided with the use of survival analysis methods to test the timing of reunification. The separation is longer in the case of chain than return migrations.
 
 # Summary. An optional shortened abstract.
 summary: 
