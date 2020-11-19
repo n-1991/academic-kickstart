@@ -1,6 +1,6 @@
 ---
-title: "Migration: Policy Reforms and Coordination" 
-authors: Kritika Saxena and Rémi Viné
+title: "Migration: Policy Reforms and Coordination" (with Kritika Saxena)
+authors: 
 - admin
 date: "2019-12-07T00:00:00Z"
 doi: ""
