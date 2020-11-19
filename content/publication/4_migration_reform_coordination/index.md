@@ -1,5 +1,5 @@
 ---
-title: "Migration: Policy Reforms and Coordination" (with Kritika Saxena)
+title: "Migration: Policy Reforms and Coordination (with Kritika Saxena)"
 authors: 
 - admin
 date: "2019-12-07T00:00:00Z"
