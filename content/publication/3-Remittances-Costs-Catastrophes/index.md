@@ -1,5 +1,5 @@
 ---
-title: "DRAFT!! Remittances, Costs and Catastrophes"
+title: "Remittances, Costs and Catastrophes"
 authors:
 - admin
 date: "2019-12-07T00:00:00Z"
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: The paper attempts to better understand the mechanisms underlying the costs of remittances. It does so using a multi-country analysis over the 2010s. More specifically, It tries to highlight whether and how the operators on the market adjust to a shock in the demand for remittances. To address endogneity  as well as severe measurement errors, I propose to use the climatic disasters that occurred in the country receiving remittances as an instrument. It appears that, overall, a demand shock on the market of remittances does push up costs up to a delay of 1 or 2 quarters. On the other hand, the catastrophe contemporaneously impacts the remittances.
+abstract: The paper attempts to better understand the mechanisms underlying the costs of remittances. It does so using a multi-country analysis over the 2010s. More specifically, it tries to highlight whether and how the operators on the market adjust to a shock in the demand for remittances. To address endogeneity  as well as severe measurement errors, I propose to use the climatic disasters that occurred in the country receiving remittances as an instrument. It appears that, overall, a demand shock on the market of remittances does push up costs up to a delay of a quarter up to a year. Reassuringly, the catastrophe contemporaneously impacts the remittances and so to a large extent, which suggests that further use of this instrument can be achieved in future research.
 
 # Summary. An optional shortened abstract.
 summary: 
