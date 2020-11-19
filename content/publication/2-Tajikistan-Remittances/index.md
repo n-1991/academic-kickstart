@@ -1,5 +1,5 @@
 ---
-title: "DRAFT!! Tajikistan, Remittances and the Family-left Behind"
+title: "Tajikistan, Remittances and the Family-left Behind"
 authors:
 - admin
 date: "2019-12-07T00:00:00Z"
@@ -18,7 +18,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Tajikistan between 2007 and 2011 was the most dependent on remittances in the world. I use survey data over this range of years and analyse the impact of remittances  in the household on the expenditure shares of different goods and services. I control for endogeneity and find that remittances does not seem to impact spending in human capital or basic goods (including food unless the household in among the poorest). On the other hand, it seems to increase the spending in secondary goods. Therefore, the paper provides some results that would suggest that remittances, even though undoubtedly worthwhile to reduce poverty, do not necessarily help improve the long term development of Tajikistan.
+abstract: Tajikistan between 2007 and 2011 was the most dependent on remittances in the world. Using survey data covering this period, I analyze the impact of remittances on the household expenditures. I control for endogeneity and find that remittances does not seem to affect spending in human capital or basic goods (including food unless the household in among the poorest). On the other hand, it seems to increase the spending in secondary goods. For the short migration, remittances can be a tool to afford health services as well. Those changes in consumption habits appear to be temporary. Overall, the paper provides some results that would suggest that remittances, even though undoubtedly worthwhile to reduce poverty and to thwart emergencies, do not necessarily help improve the long-term development of Tajikistan.
+
 
 # Summary. An optional shortened abstract.
 summary: 
