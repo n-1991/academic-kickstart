@@ -31,7 +31,9 @@ featured: false
 links: 
 # - name: Slides
 #  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
-url_pdf: img/Tajikistan_Remittances_last_version.pdf
+
+# url_pdf: img/Tajikistan_Remittances_last_version.pdf
+
 # url_poster: '#'
 # url_project: ''
 # url_slides: '#'
