@@ -21,7 +21,7 @@ role: PhD Student
 
 organizations:
 
-- name: Graduate Institute - Geneva
+- name: Graduate Institute of International and Development Studiesm Geneva
   url: "https://graduateinstitute.ch/Homepage"
 
 # Short bio (displayed in user profile at end of posts)
