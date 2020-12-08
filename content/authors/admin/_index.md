@@ -30,10 +30,10 @@ bio: My research relates to migration topics (choice of mobility, impact of remi
 
 interests:
 
+- Development
 - Migration Economics
 - Remittances
 - Migration Reforms
-- Development
 
 education:
   courses:
