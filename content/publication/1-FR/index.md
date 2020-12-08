@@ -1,5 +1,5 @@
 ---
-title: "JPM Economic Drivers of Family Reunification in a Context of International Migration"
+title: "Economic Drivers of Family Reunification in a Context of International Migration"
 subtitle: "JMP"
 authors:
 - admin
