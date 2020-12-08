@@ -33,6 +33,7 @@ interests:
 - Migration Economics
 - Remittances
 - Migration Reforms
+- Development
 
 education:
   courses:
@@ -92,7 +93,7 @@ user_groups:
 
 ---
 
-I will be at the European an American Job Markets this year.
+**I will be at the European an American Job Markets this year.**
 
 I am a fourth year PhD candidate under the supervision of Professor Djajic. The common factor of my research is migration. I have been interested in different areas in the world, particularly Europe, Africa and Central Asia.
 
