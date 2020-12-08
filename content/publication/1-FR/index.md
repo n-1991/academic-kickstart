@@ -1,5 +1,6 @@
 ---
-title: "**JPM** Economic Drivers of Family Reunification in a Context of International Migration"
+title: "JPM Economic Drivers of Family Reunification in a Context of International Migration"
+subtitle: "JMP"
 authors:
 - admin
 date: "2019-12-07T00:00:00Z"
