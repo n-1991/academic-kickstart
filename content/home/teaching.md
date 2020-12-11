@@ -16,7 +16,7 @@ weight = 90
 -	**Capstone Project - Trade and Finance track**
 	-	_Ugo Panizza - Spring 2019 to Autumn 2019_  
 -	**Statistical Methods for Social Sciences**
-	-	_Jean Swanson  - Autumn 2018 ; Autumn 2019_
+	-	_Jean Swanson  - Autumn 2018 ; Autumn 2019 ; Autumn 2020_
 -	**Qualitative Methods**
 	-	_Ashley Thornton - Spring 2018_
 -	**The Law and Economics of Bargaining in International Agreements**
