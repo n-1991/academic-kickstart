@@ -39,7 +39,7 @@ url_poster: 'img/POSTER_REMI_VINE_Economic Drivers of Family Reunification.pdf'
 # url_video: '#'
 # - icon: far fa-file-pdf
 #  icon_pack: fa
-#  url: img/Family_Migration___Africa_and_Europe.pdf
+#  url: img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
