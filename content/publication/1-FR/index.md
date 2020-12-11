@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper aims to analyze family reunification behavior of migrants whose spouses are still in the source country. Does s/he reunify? Where? When? Family-based migration requires a closer look to sequential migrations where migration involves an initial stage of separation. It is based on a simple model of a discounted utility-maximizing behavior of a representative household composed of two spouses. An illustration of South to North migration using MAFE database is provided with the use of survival analysis methods to test the timing of reunification. The separation is longer in the case of chain than return migrations.
+abstract: Migration is a family decision. Often the family is separated after the migration of one of its members and the desire to reunify can drive many decisions and choices made by the family. Will there be a reunification? After how long will the family reunify? Where will the reunification occur - in the host country or in the source country? Family-based migration requires a closer look at sequential migrations when migration involves an initial stage of separation before reunification. This paper develops a simple model of the utility-maximizing behavior of a representative household composed of two spouses. It presents insights about how wages, price levels, age at migration, and cost of migration impacts both the duration of separation and the location where the family reunifies. Empirical evidence on migration between Africa and Europe (MAFE database) is provided. I use survival analysis methods to investigate the timing of reunification. My results confirm some of the model's predictions concerning the role of differences in the standards of living and the costs of migration, namely the price levels, the wealth in both countries, the costs of migration.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -31,7 +31,7 @@ featured: false
 links: 
 # - name: Slides
 #  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
-url_pdf: img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf
+url_pdf: 'img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf'
 url_poster: 'img/POSTER_REMI_VINE_Economic Drivers of Family Reunification.pdf'
 # url_project: ''
 # url_slides: '#'
@@ -40,7 +40,6 @@ url_poster: 'img/POSTER_REMI_VINE_Economic Drivers of Family Reunification.pdf'
 # - icon: far fa-file-pdf
 #  icon_pack: fa
 #  url: img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
