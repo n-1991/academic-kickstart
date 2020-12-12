@@ -27,7 +27,9 @@ tags:
 featured: false
 
 links:
-  url_pdf: img/Superbug.pdf
+- name: Latest Version
+  url: img/Superbug.pdf
+# url_pdf: img/Superbug.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
