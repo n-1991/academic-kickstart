@@ -1,5 +1,5 @@
 ---
-title: "Superbug Stories: The Economic Burden of Antimicrobial Resistance"
+title: "Superbug Stories"
 authors:
 - admin
 date: "2020-01-07T00:00:00Z"
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In this paper I explore the question of whether the rising demand for chicken and pig meat is positively correlated with the rising rates of AMR in humans in England. I begin by positing a relationship between demand for poultry and pork products and intensive livestock farming, in which an increasing demand is met by increasing intensification. Subsequently I investigate whether the increasing number of intensive pig and poultry farms have a positive correlation with the AMR rates in humans. This cross-species transmission can occur through food, direct contact between humans and animals, or shared environmental sources such as contaminated water.
+abstract: Antimicrobial Resistance is one of the biggest global public health threats today. Although misuse of antibiotics is an important driver, it is a complex problem that is interlinked with the wider environment, especially with agriculture. In this paper I show, within the context of England, that intensive livestock farming plays a significant role in driving antimicrobial resistance in humans. I then show that poverty is a crucial factor influencing this relation, with higher poverty magnifying the effect intensive farming has on resistance. Finally I document agricultural pollution and contamination via ready to eat meals, as potential mechanisms underlying the transmission from intensive farms to humans.
 # Summary. An optional shortened abstract.
 # summary: 
 
@@ -27,7 +27,7 @@ tags:
 featured: false
 
 links:
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url_pdf: img/Superbug.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
