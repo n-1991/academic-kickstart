@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Raphael Lacoste**](https://www.artstation.com/artwork/KzZ4R)'
+  caption: 'Image credit: [**Yuri Shwedoff**](http://www.yurishwedoff.com/)'
   focal_point: ""
   preview_only: false
 
@@ -30,6 +30,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Year 2021, books I've read up until February:
+
+- [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) - by Dan Simmons
+- [A Memory Called Empire](https://www.goodreads.com/book/show/37794149-a-memory-called-empire) - by Arkady Martine 
+- [The Priory of the Orange Tree](https://www.goodreads.com/book/show/40381319-the-priory-of-the-orange-tree) - by Samantha Shannon
 
 My all time favourite books:
 
