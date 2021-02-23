@@ -54,7 +54,7 @@ Books I plan to read in the coming months:
 
 
 
-![png](./academic.png)
-Image credit: [Jack Jones](https://www.artstation.com/artwork/A9wGWo)
+![png](./academic.jpg)
+Image credit: [Eddie Mendoza](https://www.artstation.com/eddie)
 
 
