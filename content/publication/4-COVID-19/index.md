@@ -1,5 +1,5 @@
 ---
-title: "Coronagraben. Culture and social distancing in times of COVID-19 *(Revise & Resubmit)*"
+title: "Coronagraben. Culture and social distancing in times of COVID-19"
 authors:
 - admin
 - Piergiuseppe Fortunato
@@ -21,7 +21,7 @@ publication_short: ""
 
 abstract: Social distancing measures have been introduced in many countries in response to the COVID-19 pandemic. The rate of compliance to these measures, however, varied heavily. We study how cultural differences can explain this variance using data on mobility in Swiss cantons between January and May 2020. We find that mobility declined after the outbreak but significantly less in the German-speaking region. Contrary to the evidence in the literature, we find that within the Swiss context, higher generalized trust in others is strongly associated with lower reductions in individual mobility. We attribute these results to the German-speaking cantons having a combination of not only high interpersonal trust but also conservative political attitudes which may have altered the trade-off between the chance of contracting the virus and the costs associated with significant alterations of daily activities.
 # Summary. An optional shortened abstract.
-# summary: 
+summary: (Revise & Resubmit)
 
 tags:
 - Source Themes
