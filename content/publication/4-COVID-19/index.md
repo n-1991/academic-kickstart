@@ -1,5 +1,5 @@
 ---
-title: "Coronagraben. Culture and social distancing in times of COVID-19"
+title: "Coronagraben in Switzerland: Culture and social distancing in times of COVID-19"
 authors:
 - admin
 - Piergiuseppe Fortunato
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Social distancing measures have been introduced in many countries in response to the COVID-19 pandemic. The rate of compliance to these measures, however, varied heavily. We study how cultural differences can explain this variance using data on mobility in Swiss cantons between January and May 2020. We find that mobility declined after the outbreak but significantly less in the German-speaking region. Contrary to the evidence in the literature, we find that within the Swiss context, higher generalized trust in others is strongly associated with lower reductions in individual mobility. We attribute these results to the German-speaking cantons having a combination of not only high interpersonal trust but also conservative political attitudes which may have altered the trade-off between the chance of contracting the virus and the costs associated with significant alterations of daily activities.
+abstract: Social distancing measures help contain the spread of COVID-19 but the actual compliance has varied substantially across space and time. We ask whether cultural differences underlie this heterogeneity using mobility data across Switzerland between February and December 2020. We find that German speaking cantons decreased their mobility for non essential activities significantly less than the French speaking cantons. However, we find no such significant differences for the bilingual cantons. Contrary to the evidence in the literature, we find that within the Swiss context, high trusting areas exhibited a lower decline in  mobility. Additionally, cantons supporting a limited role of the state in matters of welfare also displayed a lower mobility reduction. 
 # Summary. An optional shortened abstract.
 summary: (Revise & Resubmit)
 
@@ -28,8 +28,10 @@ tags:
 featured: false
 
 links:
-- name: Covid Economics (Issue 39)
-  url: https://cepr.org/sites/default/files/CovidEconomics39.pdf
+- name: Working Paper
+  url: img/Coronagraben.pdf
+# - name: Covid Economics (Issue 39)
+# url: https://cepr.org/sites/default/files/CovidEconomics39.pdf
 - name: LSE EUROPP blog 
   url: https://blogs.lse.ac.uk/europpblog/2020/09/15/social-distancing-why-has-compliance-been-so-different-across-europe/  
 - name: Featured in lavoce
