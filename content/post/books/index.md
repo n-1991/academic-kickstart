@@ -31,27 +31,24 @@ image:
 projects: []
 ---
 
-Year 2021, books I've read up until February:
+Books I've read in June 2021:
 
-- [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) - by Dan Simmons
-- [A Memory Called Empire](https://www.goodreads.com/book/show/37794149-a-memory-called-empire) - by Arkady Martine 
-- [The Priory of the Orange Tree](https://www.goodreads.com/book/show/40381319-the-priory-of-the-orange-tree) - by Samantha Shannon
-- [The Sword of Kaigen](https://www.goodreads.com/book/show/41886271-the-sword-of-kaigen) - by M.L. Wang
+- [Anathem](https://www.goodreads.com/book/show/2845024-anathem) - Neal Stephenson
+- [Descendant of the Crane](https://www.goodreads.com/book/show/41219451-descendant-of-the-crane) - by Joan He 
+- [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) - by Arthur C. Clarke
+- [Rosewater](https://www.goodreads.com/book/show/38362809-rosewater) - by Tade Thompson
+- [A Natural History of Dragons](https://www.goodreads.com/book/show/12974372-a-natural-history-of-dragons) - by Marie Brennan
+- [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) - by Arthur C. Clarke
 
 My all time favourite books:
 
-- [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice) - Malazan Book of the Fallen by Steven Erikson 
+- [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice) - Malazan Book of the Fallen by Steven Erikson
+- [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) - by Ursula K. Le Guin 
 - [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) - Remembrance of Earth's Past by Liu Cixin 
 - [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke
 - [The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy?ac=1&from_search=true&qid=FThXJhmsxL&rank=1) by Douglas Adams
 
-Books I plan to read in the coming months:
 
-- [Reaper's Gale](https://www.goodreads.com/book/show/459064.Reaper_s_Gale) - Malazan Book of the Fallen by Steven Erikson 
-- [Consider Phlebas](https://www.goodreads.com/book/show/8935689-consider-phlebas) - Culture series by  Iain M. Banks
-- [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) - by Peter Watts 
-- [The Forever War](https://www.goodreads.com/book/show/21611.The_Forever_War) - by Joe Haldeman
-- [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) - by  by Olaf Stapledon
 
 
 
