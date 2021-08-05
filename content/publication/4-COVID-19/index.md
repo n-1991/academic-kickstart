@@ -1,10 +1,10 @@
 ---
-title: "Coronagraben in Switzerland: culture and social distancing in times of COVID-19. _Journal of Population Economics, 34(4), 1355-1383_"
+title: "Coronagraben in Switzerland: culture and social distancing in times of COVID-19."
 authors:
 - admin
 - Piergiuseppe Fortunato
 date: "2021-08-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s00148-021-00865-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
