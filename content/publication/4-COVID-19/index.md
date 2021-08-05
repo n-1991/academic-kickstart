@@ -21,7 +21,7 @@ publication_short: ""
 
 abstract: Social distancing measures help contain the spread of COVID-19 but the actual compliance has varied substantially across space and time. We ask whether cultural differences underlie this heterogeneity using mobility data across Switzerland between February and December 2020. We find that German speaking cantons decreased their mobility for non essential activities significantly less than the French speaking cantons. However, we find no such significant differences for the bilingual cantons. Contrary to the evidence in the literature, we find that within the Swiss context, high trusting areas exhibited a lower decline in  mobility. Additionally, cantons supporting a limited role of the state in matters of welfare also displayed a lower mobility reduction. 
 # Summary. An optional shortened abstract.
-summary: **Journal of Population Economics**, 34, 1355–1383 (2021).
+summary: **Journal of Population Economics, 34, 1355–1383 (2021).**
 
 tags:
 - Source Themes
