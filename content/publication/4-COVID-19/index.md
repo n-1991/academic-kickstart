@@ -16,7 +16,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "ksbvwkds"
 publication_short: ""
 
 abstract: Social distancing measures help contain the spread of COVID-19 but the actual compliance has varied substantially across space and time. We ask whether cultural differences underlie this heterogeneity using mobility data across Switzerland between February and December 2020. We find that German speaking cantons decreased their mobility for non essential activities significantly less than the French speaking cantons. However, we find no such significant differences for the bilingual cantons. Contrary to the evidence in the literature, we find that within the Swiss context, high trusting areas exhibited a lower decline in  mobility. Additionally, cantons supporting a limited role of the state in matters of welfare also displayed a lower mobility reduction. 
@@ -36,7 +36,7 @@ links:
   url: https://blogs.lse.ac.uk/europpblog/2020/09/15/social-distancing-why-has-compliance-been-so-different-across-europe/  
 - name: Featured in lavoce
   url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
-  url_pdf: https://link.springer.com/article/10.1007/s00148-021-00865-y 
+# url_pdf: https://link.springer.com/article/10.1007/s00148-021-00865-y 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
