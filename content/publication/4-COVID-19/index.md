@@ -1,5 +1,5 @@
 ---
-title: "Coronagraben in Switzerland: culture and social distancing in times of COVID-19"
+title: "Coronagraben in Switzerland: culture and social distancing in times of COVID-19. _Journal of Population Economics, 34(4), 1355-1383_"
 authors:
 - admin
 - Piergiuseppe Fortunato
@@ -21,22 +21,22 @@ publication_short: ""
 
 abstract: Social distancing measures help contain the spread of COVID-19 but the actual compliance has varied substantially across space and time. We ask whether cultural differences underlie this heterogeneity using mobility data across Switzerland between February and December 2020. We find that German speaking cantons decreased their mobility for non essential activities significantly less than the French speaking cantons. However, we find no such significant differences for the bilingual cantons. Contrary to the evidence in the literature, we find that within the Swiss context, high trusting areas exhibited a lower decline in  mobility. Additionally, cantons supporting a limited role of the state in matters of welfare also displayed a lower mobility reduction. 
 # Summary. An optional shortened abstract.
-summary: (Journal of Population Economics, Forthcoming)
+# summary: (Journal of Population Economics, Forthcoming)
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Working Paper
-  url: img/Coronagraben.pdf
+# - name: Working Paper
+# url: img/Coronagraben.pdf
 # - name: Covid Economics (Issue 39)
 # url: https://cepr.org/sites/default/files/CovidEconomics39.pdf
 - name: LSE EUROPP blog 
   url: https://blogs.lse.ac.uk/europpblog/2020/09/15/social-distancing-why-has-compliance-been-so-different-across-europe/  
 - name: Featured in lavoce
   url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
-# url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635287 
+ url_pdf: https://link.springer.com/article/10.1007/s00148-021-00865-y 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
