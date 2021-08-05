@@ -36,7 +36,7 @@ links:
   url: https://blogs.lse.ac.uk/europpblog/2020/09/15/social-distancing-why-has-compliance-been-so-different-across-europe/  
 - name: Featured in lavoce
   url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
-  # url_pdf: https://link.springer.com/article/10.1007/s00148-021-00865-y 
+  url_pdf: https://link.springer.com/article/10.1007/s00148-021-00865-y 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
