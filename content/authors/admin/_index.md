@@ -14,8 +14,8 @@ role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: The Graduate Institute of International and Development Studies 
-  url: "https://graduateinstitute.ch/Homepage"
+- name: Aix-Marseille School of Economics
+  url: "https://www.amse-aixmarseille.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:neha.deopa@graduateinstitute.ch"
+  link: "neha.deopa@univ-amu.fr"
   # icon: twitter
   # icon_pack: fab
   # link: https://twitter.com/NehaDeopa
