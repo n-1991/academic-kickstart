@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "neha.deopa@graduateinstitute.ch"
+email = "neha.deopa@univ-amu.fr"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
- address = {street = "Chemin Eugène-Rigot 2A", city = "Case postale 1672", region = "Geneva", postcode = "1211", country = "Switzerland", country_code = ""}
+ address = {street = "Aix-Marseille School of Economics (AMSE)", city = "", region = "Marseille", postcode = "13001", country = "France", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
