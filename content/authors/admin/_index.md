@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position
 
-role: PhD Student
+role: Postdoc researcher
 
 # Organizations/Affiliations
 
@@ -26,7 +26,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, etc.)
+bio: My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, _etc._)
 
 interests:
 
@@ -40,7 +40,7 @@ education:
 
   - course: PhD in International Economics
     institution: Graduate Institute - Geneva
-    year: 2021 (expected)
+    year: 2021 
   - course: MSc in International and Development Economics
     institution: Paris-Dauphine University (Paris Sciences Lettres)
     year: 2015
@@ -93,8 +93,10 @@ user_groups:
 
 ---
 
-**I will be at the European and American Job Markets this year.**
+# **I will be at the European and American Job Markets this year.**
 
-I am a final year PhD candidate under the supervision of Professor Djajic. The common factor of my research is migration. I have been interested in different areas in the world, particularly Europe, Africa and Central Asia.
+# I am a final year PhD candidate under the supervision of Professor Djajic. The common factor of my research is migration. I have been interested in different areas in the world, particularly Europe, Africa and Central Asia.
+
+I am a postdoc researche at the Graduate Institute of Geneva (Global Migration Centre) and the NCCR on-the-move. I work with Professor Viarengo on projects on development economics. 
 
 
