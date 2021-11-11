@@ -99,6 +99,6 @@ user_groups:
 
 ---
 
-I am a postdoc researche at the Graduate Institute of Geneva (Global Migration Centre) and the NCCR on-the-move. I work with Professor Viarengo on projects on development economics. 
+I am a postdoc researcher at the Graduate Institute of Geneva (Global Migration Centre) and the NCCR on-the-move. I work with Professor Viarengo on projects on development economics. 
 
 
