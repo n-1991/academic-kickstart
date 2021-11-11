@@ -91,11 +91,13 @@ user_groups:
 - Researchers
 - Visitors
 
----
+
 
 # **I will be at the European and American Job Markets this year.**
 
 # I am a final year PhD candidate under the supervision of Professor Djajic. The common factor of my research is migration. I have been interested in different areas in the world, particularly Europe, Africa and Central Asia.
+
+---
 
 I am a postdoc researche at the Graduate Institute of Geneva (Global Migration Centre) and the NCCR on-the-move. I work with Professor Viarengo on projects on development economics. 
 
