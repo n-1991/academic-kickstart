@@ -27,6 +27,6 @@ weight: 1
 A LaTeX template for IHEID-specific thesis is available here: [template](https://github.com/RemiVine/Thesis-template-IHEID-RV-2021)
 
 
-The template is meant for thesis that are paper-based, with bibliographies for each paper and titles indexed uniquely over the whole thesis.
+The template is meant for thesis that are paper-based, with bibliographies for each paper and titles indexed uniquely over the whole thesis. Details are to be found on the Github repository.
 
 
