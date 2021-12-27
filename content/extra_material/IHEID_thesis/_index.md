@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: The template
+    name: The template TEST
     weight: 1
 ---
 
