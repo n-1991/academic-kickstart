@@ -26,7 +26,7 @@ summary:
 tags:
 
 - Source Themes
-featured: True
+featured: true
 
 links: 
 # - name: arXiv
