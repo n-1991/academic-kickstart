@@ -1,5 +1,5 @@
 ---
-title: "Coronagraben in Switzerland: culture and social distancing in times of COVID-19."
+title: "Coronagraben in Switzerland: culture and social distancing in times of COVID-19"
 authors:
 - admin
 - Piergiuseppe Fortunato
