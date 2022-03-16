@@ -26,7 +26,7 @@ summary: A model of firm investment under uncertainty and partial irreversibilit
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357701
