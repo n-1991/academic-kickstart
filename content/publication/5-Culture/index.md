@@ -4,7 +4,7 @@ authors:
 - admin
 - Piergiuseppe Fortunato
 date: "2022-03-15T00:00:00Z"
-doi: "https://authors.elsevier.com/a/1elfh-CmUvqa7"
+doi: "https://doi.org/10.1016/j.socscimed.2022.114886"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
