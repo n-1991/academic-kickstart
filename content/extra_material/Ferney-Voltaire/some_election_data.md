@@ -1,9 +1,9 @@
 ---
 # Course title, summary, and position.
-linktitle: IHEID-specific Thesis Template on LaTeX
-title: The Template
+linktitle: Quelques informations sur Ferney-Voltaire
+title: Elections
 toc: false
-summary: Template for paper-based thesis with independant bibliographies and appendices but with common numbering
+summary: Petite analyse sur les élections présidentielles de 2017 et 2022.
 weight: 1
 
 # Page metadata.
