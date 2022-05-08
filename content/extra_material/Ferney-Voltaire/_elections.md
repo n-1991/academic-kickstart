@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Quelques informations sur Ferney-Voltaire
-title: Elections
+title: Élections
 toc: false
 summary: Petite analyse sur les élections présidentielles de 2017 et 2022.
 weight: 1
