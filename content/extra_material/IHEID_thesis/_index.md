@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: IHEID-specific Thesis Template on LaTeX
+linktitle: IHEID-specific Thesis Template on LaTeX TEST
 title: The Template
 toc: false
 summary: Template for paper-based thesis with independant bibliographies and appendices but with common numbering
