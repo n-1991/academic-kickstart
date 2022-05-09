@@ -25,7 +25,7 @@ weight: 1
 
 # Élections présidentielles à Ferney-Voltaire
 
-Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] TESTESTESTEST
+Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] TESTESTESTTEST 2 &rarr; revisit it from changes in the local repository.
 
 ## Quatre bureaux de vote et une baisse de la proportion d'inscrits
 
