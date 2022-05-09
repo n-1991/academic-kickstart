@@ -43,7 +43,7 @@ En 2018, l'INSEE recensait 9895 habitants[^2]. La croissance démographique annu
 
 Plusieurs facteurs peuvent expliquer cela : (i) un rajeunissement de la population, (ii) une part d'étranger plus importante, (iii) une part de migrants internes qui ne s'inscrivent pas sur les listes électorales de leur nouvelle résidence, (iv) une plus faible proportion de personnes nouvellement arrivées à l'âge légal pour voter qui s'inscrit sur les listes électorales. Si ce n'est pas évident de séparer les différentes raisons, il reste clair que la baisse de la part de la population inscrite sur les listes électorales est un sujet important est potentiellement problématique. Il est notable que la part d'inscrit sur les listes électorales dans la population totale de la ville est inférieure à 40% alors qu'elle dépasse les 70% à l'échelle du pays.[^4]
 
- 
+![](/home/remi/Pictures/Screenshot from 2022-05-09 09-24-18.png)
 
 
 
@@ -87,7 +87,7 @@ Seul le quatrième bureau de vote, couvrant l'est de la ville, affiche une dynam
 
 Les deux salves de graphiques ci-après montrent les part des votes en tenant compte des votes blancs et nuls. Le vote pour Le Pen en 2017 et le cumul Le Pen et Zemmour en 2022 est largement en dessous de la moyenne nationale. C'est un indicateur supplémentaire en faveur du fait que Ferney-Voltaire est un territoire urbain et non péri-urbain ou encore rural. Dans les bureaux de vote « Nord » et « Est », les scores de la droite en 2017, en incluant Macron, sont largement au-dessus de la moyenne nationale, avoisinant les 70% dans le 4eme bureau de vote. Dans les zones « Sud » et « Ouest », le vote Mélenchon y fut relativement élevé mais toujours inférieur au vote Macron. 
 
-![Alt text](https://www.dropbox.com/home/Other%20tasks/Ferney-Voltaire/some_content/Elections/Graphs.png "Exprimés du premier tour de 2017")
+![Alt text](https://www.dropbox.com/home/Other%20tasks/Ferney-Voltaire/some_content/Elections/Graphs/T1_2017_exprimés_barchart.png "Exprimés du premier tour de 2017")
 *
 ![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2017_exprimés_barchart.png)
 *
