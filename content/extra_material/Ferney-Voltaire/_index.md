@@ -137,7 +137,6 @@ La ségrégation spatiale, même dans un territoire relativement resserré comme
 
 
 
-***
 
 Rémi Viné
 
