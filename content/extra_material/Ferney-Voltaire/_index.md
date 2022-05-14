@@ -118,7 +118,9 @@ Dans le bureau « Sud », le vote Macron atteint 76.0% au deuxième tour alors q
 
 Le graphique ci-après cumule les abstentions, les votes blancs et nuls. Le bureau de vote « Sud » avait une quasi égalité entre les votes Macron et les suffrages non-exprimés. Il est clair que le bureau de vote « Est » n'est pas une priorité du point de vue d'un travail poussant les résidents à aller voter aux  prochaines élections. 
 
-![Alt text](/academic-kickstart-1/content/extra_material/images/T2_2022_inscrits_barchart.png  "Test image though Github")
+TEST GRAPH through Github
+
+![Graph](/academic-kickstart-1/content/extra_material/images/T2_2022_inscrits_barchart.png  "Test image though Github")
 
 
 
