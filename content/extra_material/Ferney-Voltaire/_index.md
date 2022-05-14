@@ -98,6 +98,8 @@ L'élection de 2022 montre des différences notables : l'extrême droite - en so
 
 ![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2022_exprimés_barchart.png)
 
+
+![]()
 Combinant les remarques de la partie précédente et de cette partie, il est clair que le vote Mélenchon aux législatives est à aller chercher dans les trois premiers bureaux de vote en convaincant les votants de se déplacer pour les élections législatives. L'accroissement de l'abstention y fut le plus élevé et le vote Mélenchon y est le plus important. Le bureau de vote « Sud » demeure probablement le quartier le plus important à cet égard. Il est également intéressant de constater que l'écart entre les bureaux de vote dans le vote Macron s'est considérablement élargi : d'environ 5 pp en 2017, il est passé à plus de 17 pp en 2022. 
 
 ## Les votes du second tour - ou du deuxième tour
@@ -116,7 +118,7 @@ Dans le bureau « Sud », le vote Macron atteint 76.0% au deuxième tour alors q
 
 Le graphique ci-après cumule les abstentions, les votes blancs et nuls. Le bureau de vote « Sud » avait une quasi égalité entre les votes Macron et les suffrages non-exprimés. Il est clair que le bureau de vote « Est » n'est pas une priorité du point de vue d'un travail poussant les résidents à aller voter aux  prochaines élections. 
 
-![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T2_2022_inscrits_barchart.png)
+![Alt text](/academic-kickstart-1/content/extra_material/images/T2_2022_inscrits_barchart.png  "Test image though Github")
 
 
 
