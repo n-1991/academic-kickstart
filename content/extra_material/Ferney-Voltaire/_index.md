@@ -24,7 +24,7 @@ weight: 1
 ---
 
 
-Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] TESTESTESTTEST 2 &rarr; revisit it from changes in the local repository.
+Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] 
 
 ## Quatre bureaux de vote et une baisse de la proportion d'inscrits
 
