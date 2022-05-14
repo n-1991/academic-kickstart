@@ -42,11 +42,10 @@ Remarque préliminaire : les données électorales, sauf mention du contraire, s
 En 2018, l'INSEE recensait 9895 habitants[^2]. La croissance démographique annuelle est de 2.7%. Le tableau sur les effectifs par bureau de vote indique qu'il y a eu une croissance moyenne annuelle des inscrits sur les listes électorales de 1.9%,[^3] soit une progression plus faible que la progression démographique. Les bureaux de vote du sud et de l'ouest ont le plus gagné en inscrits sur la période (croissance annuelle de plus de 3%). Il n'en demeure pas moins que le ratio inscrits sur population décroît avec le temps.
 
 Plusieurs facteurs peuvent expliquer cela : (i) un rajeunissement de la population, (ii) une part d'étranger plus importante, (iii) une part de migrants internes qui ne s'inscrivent pas sur les listes électorales de leur nouvelle résidence, (iv) une plus faible proportion de personnes nouvellement arrivées à l'âge légal pour voter qui s'inscrit sur les listes électorales. Si ce n'est pas évident de séparer les différentes raisons, il reste clair que la baisse de la part de la population inscrite sur les listes électorales est un sujet important est potentiellement problématique. Il est notable que la part d'inscrit sur les listes électorales dans la population totale de la ville est inférieure à 40% alors qu'elle dépasse les 70% à l'échelle du pays.[^4]
-<!--
+
 ![Ferney Map by standard of living](/content/extra_material/images/Map_FV_niveau_de_vie_screenshot.png)
 
-
-
+<!--
 [//]: # ![](/home/remi/Pictures/Screenshot from 2022-05-09 09-24-18.png)
 
 [//]: # <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.1115935837128434,46.256864425173575&z=15&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR::GEOPORTAIL:OGC:WMTS(1)&l1=LIMITES_ADMINISTRATIVES_EXPRESS.LATEST::GEOPORTAIL:OGC:WMTS(1)&l2=INSEE.FILOSOFI.NIVEAU.DE.VIE.SECRET::GEOPORTAIL:OGC:WMTS(0.8)&permalink=yes" allowfullscreen></iframe>
