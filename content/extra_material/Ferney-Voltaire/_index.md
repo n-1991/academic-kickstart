@@ -121,8 +121,14 @@ Le graphique ci-après cumule les abstentions, les votes blancs et nuls. Le bure
 TEST GRAPH through Github
 
 ![Graph](academic-kickstart-1/content/extra_material/images/T1_2022_inscrits_barchart.png "Test image though Github")
+Taking the Github URL
 
 ![Graph](https://github.com/RemiVine/academic-kickstart-1/edit/master/content/extra_material/images/T1_2022_inscrits_barchart.png)
+
+
+Taking the saving file on local
+![Graph](file:///home/remi/Dropbox/Other_tasks/Ferney-Voltaire/some_content/Elections/Graphs/T1_2017_exprimes_barchart.png)
+
 
 
 
