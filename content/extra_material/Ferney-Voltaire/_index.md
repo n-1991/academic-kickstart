@@ -85,17 +85,17 @@ Les deux salves de graphiques ci-après montrent les part des votes en tenant co
 [//]: # ![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2017_exprimés_barchart.png)
 *
 [//]: # <img title="Exprimés du premier tour de 2017" alt="Alt text" src="https://www.dropbox.com/home/Other%20tasks/Ferney-Voltaire/some_content/Elections/Graphs.png">
--->
+
 
 ![Graph_T1_2017_exprimes](/content/extra_material/images/T1_2017_exprimes_barchart.png)
-
+-->
 L'élection de 2022 montre des différences notables : l'extrême droite - en sommant Le Pen et Zemmour - a progressé partout, récupérant sans doute des voix qui allaient vers la droite traditionnelle en 2017. Le vote Macron a stagné dans les bureaux « Sud » et « Ouest » et a largement augmenté dans les bureaux « Nord » et « Sud ». Le point le plus important est le vote Mélenchon, qui augmente partout et en particulier dans le bureau de vote « Sud ». La somme des votes en faveur de Jadot et de Hidalgo compense le vote Hamon 5 ans auparavant. Ainsi l'accroissement du vote Mélenchon à Ferney-Voltaire est-il à prendre ailleurs que dans cet électorat. 
 
 <!--
 [//]: # ![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2022_exprimés_barchart.png)
--->
-![Graph_T1_2022_exprimes](/content/extra_material/images/T1_2022_exprimes_barchart.png)
 
+![Graph_T1_2022_exprimes](/content/extra_material/images/T1_2022_exprimes_barchart.png)
+-->
 Combinant les remarques de la partie précédente et de cette partie, il est clair que le vote Mélenchon aux législatives est à aller chercher dans les trois premiers bureaux de vote en convaincant les votants de se déplacer pour les élections législatives. L'accroissement de l'abstention y fut le plus élevé et le vote Mélenchon y est le plus important. Le bureau de vote « Sud » demeure probablement le quartier le plus important à cet égard. Il est également intéressant de constater que l'écart entre les bureaux de vote dans le vote Macron s'est considérablement élargi : d'environ 5 pp en 2017, il est passé à plus de 17 pp en 2022. 
 
 ## Les votes du second tour - ou du deuxième tour
@@ -107,16 +107,16 @@ Les votes Le Pen demeurent faibles à Ferney-Voltaire mais ils augmentent, en pr
 Les votes Le Pen au deuxième tour de l'élection de 2017 s'accroissent d'environ 8 pp par rapport au premier tour et cela pour l'ensemble des bureaux de vote. Le report des voix vers Macron conduit les quatre bureaux de vote à atteindre une part d'environ 80% des votants. 
 
 Dans le bureau « Sud », le vote Macron atteint 76.0% au deuxième tour alors qu'il n'était que de 25.4% au premier tour ; dans le bureau « Est » le vote Macron passe de 42.6% au premier tour de 2022 à 77.5%. 
-
+<!--
 ![Graph_T2_2017_exprimes](/content/extra_material/images/T2_2017_exprimes_barchart.png)
 
 ![Graph_T1_2022_exprimes](/content/extra_material/images/T2_2022_exprimes_barchart.png)
-
+-->
 Le graphique ci-après cumule les abstentions, les votes blancs et nuls. Le bureau de vote « Sud » avait une quasi égalité entre les votes Macron et les suffrages non-exprimés. Il est clair que le bureau de vote « Est » n'est pas une priorité du point de vue d'un travail poussant les résidents à aller voter aux  prochaines élections. 
-
+<!--
 ![Graph_T2_2022_inscrits](/content/extra_material/images/T2_2022_inscrits_barchart.png)
 
-<!--
+
 [//]: #  TEST GRAPH through Github
 
 [//]: #  ![Graph](/content/extra_material/images/T1_2022_inscrits_barchart.png "Test image though Github")
