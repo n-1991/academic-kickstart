@@ -44,6 +44,7 @@ Plusieurs facteurs peuvent expliquer cela : (i) un rajeunissement de la populati
 
 ![Ferney Map by standard of living](/content/extra_material/images/Map_FV_niveau_de_vie_screenshot.png)
 
+
 <!--
 [//]: # ![](/home/remi/Pictures/Screenshot from 2022-05-09 09-24-18.png)
 
