@@ -145,7 +145,6 @@ Rémi Viné
 
 
 
------------------
 
 [^1]: https://www.data.gouv.fr/fr/pages/donnees-des-elections/
 [^2]: https://www.insee.fr/fr/statistiques/1405599?geo=COM-01160
