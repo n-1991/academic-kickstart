@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Quelques informations sur Ferney-Voltaire
-title: Élections présidentielles à Ferney-Voltaire
+title: 
 toc: false
 summary: Petite analyse sur les élections présidentielles de 2017 et 2022.
 weight: 1
@@ -23,6 +23,7 @@ weight: 1
 #    weight: 1
 ---
 
+# Élections présidentielles à Ferney-Voltaire
 
 Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] 
 
