@@ -120,7 +120,9 @@ Le graphique ci-après cumule les abstentions, les votes blancs et nuls. Le bure
 
 TEST GRAPH through Github
 
-![Graph](/academic-kickstart-1/content/extra_material/images/T2_2022_inscrits_barchart.png  "Test image though Github")
+![Graph](academic-kickstart-1/content/extra_material/images/T1_2022_inscrits_barchart.png "Test image though Github")
+
+![Graph](https://github.com/RemiVine/academic-kickstart-1/edit/master/content/extra_material/images/T1_2022_inscrits_barchart.png)
 
 
 
