@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position
 
-role: Postdoc researcher
+role: Academic Supervisor
 
 # Organizations/Affiliations
 
@@ -99,6 +99,7 @@ user_groups:
 
 ---
 
-I am a postdoc researcher at the Graduate Institute of Geneva (Global Migration Centre) and the NCCR on-the-move. I work on projects on development economics. 
+# I am a postdoc researcher at the Graduate Institute of Geneva (Global Migration Centre) and the NCCR on-the-move. 
+I am an academic supervisor and I also on research projects on development and international economics. 
 
 
