@@ -67,6 +67,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/RemiVine
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/r%C3%A9mi-vin%C3%A9/
+
 
 # Link to a PDF of your resume/CV from the About widget.
 
