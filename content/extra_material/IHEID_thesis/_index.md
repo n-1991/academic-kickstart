@@ -30,8 +30,3 @@ A LaTeX template for IHEID-specific thesis is available here: [template](https:/
 The template is meant for thesis that are paper-based, with bibliographies for each paper and titles indexed uniquely over the whole thesis. Details are to be found on the Github repository.
 
 
-![XXX1](./content/extra_material/images/Map_FV_niveau_de_vie_screenshot.png)
-
-![XXX2](/content/extra_material/images/Map_FV_niveau_de_vie_screenshot.png)
-
-
