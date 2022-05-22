@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Quelques informations sur Ferney-Voltaire
-title: Élections
+title: 
 toc: false
 summary: Petite analyse sur les élections présidentielles de 2017 et 2022.
 weight: 1
@@ -25,7 +25,7 @@ weight: 1
 
 # Élections présidentielles à Ferney-Voltaire
 
-Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1]
+Remarque préliminaire : les données électorales, sauf mention du contraire, sont tirées des sources officielles.[^1] 
 
 ## Quatre bureaux de vote et une baisse de la proportion d'inscrits
 
@@ -43,26 +43,24 @@ En 2018, l'INSEE recensait 9895 habitants[^2]. La croissance démographique annu
 
 Plusieurs facteurs peuvent expliquer cela : (i) un rajeunissement de la population, (ii) une part d'étranger plus importante, (iii) une part de migrants internes qui ne s'inscrivent pas sur les listes électorales de leur nouvelle résidence, (iv) une plus faible proportion de personnes nouvellement arrivées à l'âge légal pour voter qui s'inscrit sur les listes électorales. Si ce n'est pas évident de séparer les différentes raisons, il reste clair que la baisse de la part de la population inscrite sur les listes électorales est un sujet important est potentiellement problématique. Il est notable que la part d'inscrit sur les listes électorales dans la population totale de la ville est inférieure à 40% alors qu'elle dépasse les 70% à l'échelle du pays.[^4]
 
- 
+![Ferney Map by standard of living](./Map_FV_niveau_de_vie_screenshot.png)
 
 
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.1115935837128434,46.256864425173575&z=15&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR::GEOPORTAIL:OGC:WMTS(1)&l1=LIMITES_ADMINISTRATIVES_EXPRESS.LATEST::GEOPORTAIL:OGC:WMTS(1)&l2=INSEE.FILOSOFI.NIVEAU.DE.VIE.SECRET::GEOPORTAIL:OGC:WMTS(0.8)&permalink=yes" allowfullscreen></iframe>
+<!--
+![png](./index_1_0.png)
 
+![TEST](/content/extra_material/images/Map_FV_niveau_de_vie_screenshot.png)
+-->
+<!--
+[//]: # ![](/home/remi/Pictures/Screenshot from 2022-05-09 09-24-18.png)
 
+[//]: # <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.1115935837128434,46.256864425173575&z=15&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR::GEOPORTAIL:OGC:WMTS(1)&l1=LIMITES_ADMINISTRATIVES_EXPRESS.LATEST::GEOPORTAIL:OGC:WMTS(1)&l2=INSEE.FILOSOFI.NIVEAU.DE.VIE.SECRET::GEOPORTAIL:OGC:WMTS(0.8)&permalink=yes" allowfullscreen></iframe>
 
+[//]: # <iframe height='265' scrolling='no' title='Fancy Animated SVG Menu' src='//codepen.io/jeangontijo/embed/OxVywj/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/jeangontijo/pen/OxVywj/'>Fancy Animated SVG Menu</a> by Jean Gontijo (<a href='https://codepen.io/jeangontijo'>@jeangontijo</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>
 
-
-
-
-<iframe height='265' scrolling='no' title='Fancy Animated SVG Menu' src='//codepen.io/jeangontijo/embed/OxVywj/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/jeangontijo/pen/OxVywj/'>Fancy Animated SVG Menu</a> by Jean Gontijo (<a href='https://codepen.io/jeangontijo'>@jeangontijo</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>
-
-
-
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.1087980404900195,46.256342013851366&z=15&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR::GEOPORTAIL:OGC:WMTS(1)&l1=LIMITES_ADMINISTRATIVES_EXPRESS.LATEST::GEOPORTAIL:OGC:WMTS(1)&l2=INSEE.FILOSOFI.NIVEAU.DE.VIE.SECRET::GEOPORTAIL:OGC:WMTS(0.8)&permalink=yes" allowfullscreen></iframe>
-
-
-
+[//]: # <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.1087980404900195,46.256342013851366&z=15&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR::GEOPORTAIL:OGC:WMTS(1)&l1=LIMITES_ADMINISTRATIVES_EXPRESS.LATEST::GEOPORTAIL:OGC:WMTS(1)&l2=INSEE.FILOSOFI.NIVEAU.DE.VIE.SECRET::GEOPORTAIL:OGC:WMTS(0.8)&permalink=yes" allowfullscreen></iframe>
+-->
 
 
 ## Évolution de l'abstention
@@ -87,16 +85,23 @@ Seul le quatrième bureau de vote, couvrant l'est de la ville, affiche une dynam
 
 Les deux salves de graphiques ci-après montrent les part des votes en tenant compte des votes blancs et nuls. Le vote pour Le Pen en 2017 et le cumul Le Pen et Zemmour en 2022 est largement en dessous de la moyenne nationale. C'est un indicateur supplémentaire en faveur du fait que Ferney-Voltaire est un territoire urbain et non péri-urbain ou encore rural. Dans les bureaux de vote « Nord » et « Est », les scores de la droite en 2017, en incluant Macron, sont largement au-dessus de la moyenne nationale, avoisinant les 70% dans le 4eme bureau de vote. Dans les zones « Sud » et « Ouest », le vote Mélenchon y fut relativement élevé mais toujours inférieur au vote Macron. 
 
-![Alt text](https://www.dropbox.com/home/Other%20tasks/Ferney-Voltaire/some_content/Elections/Graphs.png "Exprimés du premier tour de 2017")
+<!--
+[//]: # ![Alt text](https://www.dropbox.com/home/Other%20tasks/Ferney-Voltaire/some_content/Elections/Graphs/T1_2017_exprimés_barchart.png "Exprimés du premier tour de 2017")
 *
-![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2017_exprimés_barchart.png)
+[//]: # ![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2017_exprimés_barchart.png)
 *
-<img title="Exprimés du premier tour de 2017" alt="Alt text" src="https://www.dropbox.com/home/Other%20tasks/Ferney-Voltaire/some_content/Elections/Graphs.png">
+[//]: # <img title="Exprimés du premier tour de 2017" alt="Alt text" src="https://www.dropbox.com/home/Other%20tasks/Ferney-Voltaire/some_content/Elections/Graphs.png">
+-->
 
+![Graph_T1_2017_exprimes](./T1_2017_exprimes_barchart.png)
 
 L'élection de 2022 montre des différences notables : l'extrême droite - en sommant Le Pen et Zemmour - a progressé partout, récupérant sans doute des voix qui allaient vers la droite traditionnelle en 2017. Le vote Macron a stagné dans les bureaux « Sud » et « Ouest » et a largement augmenté dans les bureaux « Nord » et « Sud ». Le point le plus important est le vote Mélenchon, qui augmente partout et en particulier dans le bureau de vote « Sud ». La somme des votes en faveur de Jadot et de Hidalgo compense le vote Hamon 5 ans auparavant. Ainsi l'accroissement du vote Mélenchon à Ferney-Voltaire est-il à prendre ailleurs que dans cet électorat. 
 
-![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2022_exprimés_barchart.png)
+<!--
+[//]: # ![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T1_2022_exprimés_barchart.png)
+-->
+
+![Graph_T1_2022_exprimes](./T1_2022_exprimes_barchart.png)
 
 Combinant les remarques de la partie précédente et de cette partie, il est clair que le vote Mélenchon aux législatives est à aller chercher dans les trois premiers bureaux de vote en convaincant les votants de se déplacer pour les élections législatives. L'accroissement de l'abstention y fut le plus élevé et le vote Mélenchon y est le plus important. Le bureau de vote « Sud » demeure probablement le quartier le plus important à cet égard. Il est également intéressant de constater que l'écart entre les bureaux de vote dans le vote Macron s'est considérablement élargi : d'environ 5 pp en 2017, il est passé à plus de 17 pp en 2022. 
 
@@ -110,15 +115,24 @@ Les votes Le Pen au deuxième tour de l'élection de 2017 s'accroissent d'enviro
 
 Dans le bureau « Sud », le vote Macron atteint 76.0% au deuxième tour alors qu'il n'était que de 25.4% au premier tour ; dans le bureau « Est » le vote Macron passe de 42.6% au premier tour de 2022 à 77.5%. 
 
-![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T2_2017_exprimés_barchart.png)
+![Graph_T2_2017_exprimes](./T2_2017_exprimes_barchart.png)
 
-![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T2_2022_exprimés_barchart.png)
+![Graph_T1_2022_exprimes](./T2_2022_exprimes_barchart.png)
 
 Le graphique ci-après cumule les abstentions, les votes blancs et nuls. Le bureau de vote « Sud » avait une quasi égalité entre les votes Macron et les suffrages non-exprimés. Il est clair que le bureau de vote « Est » n'est pas une priorité du point de vue d'un travail poussant les résidents à aller voter aux  prochaines élections. 
 
-![](/media/remi/DISQUEDUR/DATA/Elections/Présidentielles_France/Graphs/T2_2022_inscrits_barchart.png)
+![Graph_T2_2022_inscrits](./T2_2022_inscrits_barchart.png)
 
 
+<!--
+[//]: #  TEST GRAPH through Github
+
+[//]: #  ![Graph](/content/extra_material/images/T1_2022_inscrits_barchart.png "Test image though Github")
+[//]: #  Taking the Github URL
+[//]: # ![Graph](https://github.com/RemiVine/academic-kickstart-1/edit/master/content/extra_material/images/T1_2022_inscrits_barchart.png)
+[//]: #  Taking the saving file on local
+[//]: # ![Graph](file:///home/remi/Dropbox/Other_tasks/Ferney-Voltaire/some_content/Elections/Graphs/T1_2017_exprimes_barchart.png)
+-->
 
 ## En bref
 
@@ -130,7 +144,6 @@ La ségrégation spatiale, même dans un territoire relativement resserré comme
 
 
 
-***
 
 Rémi Viné
 
@@ -138,7 +151,6 @@ Rémi Viné
 
 
 
------------------
 
 [^1]: https://www.data.gouv.fr/fr/pages/donnees-des-elections/
 [^2]: https://www.insee.fr/fr/statistiques/1405599?geo=COM-01160
