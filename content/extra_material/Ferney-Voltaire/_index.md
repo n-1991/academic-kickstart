@@ -43,7 +43,7 @@ En 2018, l'INSEE recensait 9895 habitants[^2]. La croissance démographique annu
 
 Plusieurs facteurs peuvent expliquer cela : (i) un rajeunissement de la population, (ii) une part d'étranger plus importante, (iii) une part de migrants internes qui ne s'inscrivent pas sur les listes électorales de leur nouvelle résidence, (iv) une plus faible proportion de personnes nouvellement arrivées à l'âge légal pour voter qui s'inscrit sur les listes électorales. Si ce n'est pas évident de séparer les différentes raisons, il reste clair que la baisse de la part de la population inscrite sur les listes électorales est un sujet important est potentiellement problématique. Il est notable que la part d'inscrit sur les listes électorales dans la population totale de la ville est inférieure à 40% alors qu'elle dépasse les 70% à l'échelle du pays.[^4]
 
-![Ferney Map by standard of living](/content/extra_material/images/Map_FV_niveau_de_vie_screenshot.png)
+![Ferney Map by standard of living](./Map_FV_niveau_de_vie_screenshot.png)
 
 <!--
 ![TEST](/content/extra_material/images/Map_FV_niveau_de_vie_screenshot.png)
