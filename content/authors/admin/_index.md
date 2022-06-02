@@ -105,6 +105,6 @@ user_groups:
 
 ---
 
-I am an academic supervisor and I also on research projects on development and international economics. 
+I am an academic supervisor and I also work on research projects on development and international economics. 
 
 
