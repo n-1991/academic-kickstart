@@ -18,11 +18,11 @@ organizations:
   url: "https://www.amse-aixmarseille.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
+# bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
 
 interests:
 - Environmental and Resource Economics 
-- Industrial Organization
+- Development Economics
 - Uncertainty and Risk
 
 education:
@@ -72,7 +72,7 @@ social:
 
 I am a Swiss National Science Foundation Postdoctoal Fellow at The Aix-Marseille School of Economics.
 
-I graduated with a PhD in Economics from The Graduate Institute of International and Development Studies, Geneva. My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on environmental economics and firm dynamics. In my free time I enjoy reading science fiction and fantasy.
+I graduated with a PhD in Economics from The Graduate Institute of International and Development Studies, Geneva. My research interests are at the intersection of environmental and development economics. I also study decision making under uncertainty, modeled using stochastic processes. In my free time I enjoy reading science fiction and fantasy.
 
 
 
