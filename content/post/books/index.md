@@ -31,14 +31,12 @@ image:
 projects: []
 ---
 
-Books I've read in June 2021:
+Books I've read in June 2022:
 
-- [Anathem](https://www.goodreads.com/book/show/2845024-anathem) - Neal Stephenson
-- [Descendant of the Crane](https://www.goodreads.com/book/show/41219451-descendant-of-the-crane) - by Joan He 
-- [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) - by Arthur C. Clarke
-- [Rosewater](https://www.goodreads.com/book/show/38362809-rosewater) - by Tade Thompson
-- [A Natural History of Dragons](https://www.goodreads.com/book/show/12974372-a-natural-history-of-dragons) - by Marie Brennan
-- [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) - by Arthur C. Clarke
+- [Pushing Ice](https://www.goodreads.com/book/show/89186.Pushing_Ice) - Alastair Reynolds
+- [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora) - by Greg Egan 
+- [River of Stars](https://www.goodreads.com/book/show/15808474-river-of-stars) - by Guy Gavriel Kay
+- [The Dark Beyond the Stars](https://www.goodreads.com/book/show/430150.The_Dark_Beyond_the_Stars) - by Frank M. Robinson
 
 My all time favourite books:
 
