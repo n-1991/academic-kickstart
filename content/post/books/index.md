@@ -30,6 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+To follow the 2022 Reddit Sci Fi & Fantasy Book Bingo check [here](https://www.reddit.com/r/Fantasy/comments/ttrev1/official_rfantasy_2022_book_bingo_challenge/)
 
 Books I've read in June 2022:
 
