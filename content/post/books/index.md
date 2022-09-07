@@ -52,6 +52,6 @@ My all time favourite books:
 
 
 ![png](./pyramids.png)
-Image credit: [Eddie Mendoza](https://www.artstation.com/eddie)
+Image credit: [crumplyrogue](https://www.instagram.com/crumplyrogue/)
 
 
