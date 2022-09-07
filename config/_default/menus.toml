@@ -34,7 +34,7 @@
   weight = 60
   
   [[main]]
-  name = "Other stuff"
+  name = "SFF Books"
   url = "#posts"
   weight = 70
 
