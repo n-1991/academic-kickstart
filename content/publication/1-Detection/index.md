@@ -26,7 +26,7 @@ summary: We study the stochastic dynamics of a renewable resource harvested by a
 tags:
 
 - Source Themes
-featured: true
+featured: false
 
 links: 
  - name: arXiv
