@@ -32,7 +32,7 @@ links:
 # url: img/Coronagraben.pdf
 # - name: Covid Economics (Issue 39)
 # url: https://cepr.org/sites/default/files/CovidEconomics39.pdf
- url_pdf: https://doi.org/10.1007/s00148-021-00865-y 
+  url_pdf: https://doi.org/10.1007/s00148-021-00865-y 
 - name: LSE EUROPP blog 
   url: https://blogs.lse.ac.uk/europpblog/2020/09/15/social-distancing-why-has-compliance-been-so-different-across-europe/  
 - name: Featured in lavoce
