@@ -4,7 +4,7 @@ authors:
 - admin
 - Piergiuseppe Fortunato
 date: "2021-08-07T00:00:00Z"
-doi: "https://doi.org/10.1007/s00148-021-00865-y"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
