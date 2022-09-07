@@ -51,7 +51,7 @@ My all time favourite books:
 
 
 
-![png](./academic.jpg)
+![png](./pyramids.png)
 Image credit: [Eddie Mendoza](https://www.artstation.com/eddie)
 
 
