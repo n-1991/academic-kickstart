@@ -23,15 +23,15 @@ publication_short: ""
 
 abstract: Can religious persuasion alter fertility decisions via communication by religious authority figures? We do so in the context of Georgia where in December 2007, in a move to boost the declining fertility rates, the Georgian Orthodox Church's Patriarch began to personally baptise third or higher parity child. Using synthetic control method and interrupted time series analysis we find suggestive evidence of higher fertility rate post 2008. Encouraged by macro evidence, using micro-data we exploit exogenous variation in birth timing, birth parity and religion of mother to measure the short and long run causal impact of persuasion. We find this announcement increased the probability of giving birth and reduced the probability of having an abortion significantly. 
 # Summary. An optional shortened abstract.
-summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
+# summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
 tags:
 
 - Source Themes
 featured: true
 
 links: 
- - name: arXiv
-   url: https://arxiv.org/abs/2005.11500
+# - name: arXiv
+#   url: https://arxiv.org/abs/2005.11500
 # name: Latest Version
  # url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: 
