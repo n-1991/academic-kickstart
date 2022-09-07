@@ -4,7 +4,7 @@ authors:
 - admin
 - Piergiuseppe Fortunato
 date: "2022-03-15T00:00:00Z"
-doi: "https://doi.org/10.1016/j.socscimed.2022.114886"
+# doi: "https://doi.org/10.1016/j.socscimed.2022.114886"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
@@ -30,7 +30,7 @@ featured: false
 links:
 # name: Latest Version
 #  url: img/cultural_markers.pdf
-# url_pdf: img/Superbug.pdf
+ url_pdf: https://doi.org/10.1016/j.socscimed.2022.114886
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
