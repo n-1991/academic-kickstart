@@ -3,7 +3,7 @@ title: "Firm Decisions under Jump-Diffusive Dynamics"
 authors:
 - admin
 - Daniele Rinaldo
-date: "2020-08-07T00:00:00Z"
+date: "2020-07-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
