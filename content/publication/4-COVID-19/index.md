@@ -4,7 +4,7 @@ authors:
 - admin
 - Piergiuseppe Fortunato
 date: "2021-08-07T00:00:00Z"
-doi: "https://doi.org/10.1007/s00148-021-00865-y"
+# doi: "https://doi.org/10.1007/s00148-021-00865-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -32,11 +32,11 @@ links:
 # url: img/Coronagraben.pdf
 # - name: Covid Economics (Issue 39)
 # url: https://cepr.org/sites/default/files/CovidEconomics39.pdf
+ url_pdf: https://doi.org/10.1007/s00148-021-00865-y 
 - name: LSE EUROPP blog 
   url: https://blogs.lse.ac.uk/europpblog/2020/09/15/social-distancing-why-has-compliance-been-so-different-across-europe/  
 - name: Featured in lavoce
   url: https://www.lavoce.info/archives/68436/il-distanziamento-sociale-e-una-questione-culturale/
-# url_pdf: https://link.springer.com/article/10.1007/s00148-021-00865-y 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
