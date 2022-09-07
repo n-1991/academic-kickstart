@@ -12,7 +12,12 @@
   name = "CV"
   url = "img/cv.pdf"
   weight = 20
-  
+
+[[main]]
+  name = "JMP"
+  url = "#experience"
+  weight = 30
+
 [[main]]
   name = "Publications"
   url = "#publications"
