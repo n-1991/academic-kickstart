@@ -4,7 +4,7 @@ authors:
 - admin
 - Piergiuseppe Fortunato
 date: "2022-03-15T00:00:00Z"
-doi: "https://doi.org/10.1016/j.socscimed.2022.114886"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
@@ -28,7 +28,9 @@ tags:
 featured: false
 
 links:
-# name: Article
+- name: PDF
+  url: https://doi.org/10.1016/j.socscimed.2022.114886 
+# - name: Article
 #  url: https://doi.org/10.1016/j.socscimed.2022.114886
 # url_pdf: https://doi.org/10.1016/j.socscimed.2022.114886
 # url_code: '#'
