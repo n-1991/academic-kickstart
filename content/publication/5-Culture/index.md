@@ -28,9 +28,9 @@ tags:
 featured: false
 
 links:
- name: Article
-  url: https://doi.org/10.1016/j.socscimed.2022.114886
-# url_pdf: https://doi.org/10.1016/j.socscimed.2022.114886
+# name: Article
+#  url: https://doi.org/10.1016/j.socscimed.2022.114886
+ url_pdf: https://doi.org/10.1016/j.socscimed.2022.114886
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
