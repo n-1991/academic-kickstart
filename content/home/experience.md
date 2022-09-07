@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Job Market Paper"
@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "CEO"
   company = "GenCoin"
-   company_url = ""
-   location = "California"
-   date_start = "2017-01-01"
-   date_end = ""
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = 
   Responsibilities include: """
   
