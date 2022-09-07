@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "JMP"
-  url = "#experience"
-  weight = 30
-
-[[main]]
   name = "Publications"
   url = "#publications"
   weight = 30
