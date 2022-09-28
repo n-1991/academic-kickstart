@@ -21,20 +21,20 @@ organizations:
 # bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
 
 interests:
-- Environmental Economics 
-- Development Economics
+- Environmental and Resource Economics 
+- Political Economy, Culture and Religion
 - Uncertainty and Risk
 
 education:
   courses:
   - course: PhD in International Economics
-    institution: The Graduate Institute of International and Development Studies, Geneva
+    institution: The Graduate Institute (IHEID), Geneva
     year: 2021
   - course: Master in International Economics
-    institution: The Graduate Institute of International and Development Studies, Geneva
+    institution: The Graduate Institute (IHEID), Geneva
     year: 2014
   - course: BA (Honours) Economics
-    institution: Shri Ram College of Commerce, University of Delhi
+    institution: University of Delhi
     year: 2012
 
 # Social/Academic Networking
@@ -72,7 +72,7 @@ social:
 
 I am a Swiss National Science Foundation Postdoctoal Fellow at The Aix-Marseille School of Economics.
 
-I graduated with a PhD in Economics from The Graduate Institute of International and Development Studies, Geneva. My research interests are at the intersection of environmental and development economics. I also study decision making under uncertainty, modeled using stochastic processes. In my free time I enjoy reading science fiction and fantasy.
+I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. I also study decision making under uncertainty, modeled using stochastic processes. In my free time I enjoy reading science fiction and fantasy.
 
 I am on the 2022-2023 EEA and AEA job market.
 
