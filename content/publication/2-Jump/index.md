@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-- name: arXiv
+- name: PDF
    url: img/jumps.pdf
 # url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357701
 # url_code: '#'
