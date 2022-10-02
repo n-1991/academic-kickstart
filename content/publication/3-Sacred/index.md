@@ -27,11 +27,11 @@ tags:
 featured: true
 
 links: 
-# - name: arXiv
-#   url: https://arxiv.org/abs/2005.11500
+ - name: PDF
+   url: img/jmp.pdf
 # name: Latest Version
  # url: img/Monopoly_Detection_EcologicalRegimes.pdf
-- url_pdf: img/jmp.pdf
+# url_pdf: img/jmp.pdf
 # url_poster: '#'
 # url_project: ''
 # url_slides: '#'
