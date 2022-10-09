@@ -32,15 +32,16 @@ projects: []
 ---
 To follow the 2022 Reddit Sci Fi & Fantasy Book Bingo check [here](https://www.reddit.com/r/Fantasy/comments/ttrev1/official_rfantasy_2022_book_bingo_challenge/)
 
-Books I've read in June 2022:
+Books I'm hoping to finish before the end of 2022:
 
-- [Pushing Ice](https://www.goodreads.com/book/show/89186.Pushing_Ice) - Alastair Reynolds
-- [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora) - by Greg Egan 
-- [River of Stars](https://www.goodreads.com/book/show/15808474-river-of-stars) - by Guy Gavriel Kay
-- [The Dark Beyond the Stars](https://www.goodreads.com/book/show/430150.The_Dark_Beyond_the_Stars) - by Frank M. Robinson
+- [Foreigner](https://www.goodreads.com/book/show/57043.Foreigner) - by C.J. Cherryh
+- [Gnomon](https://www.goodreads.com/book/show/33852053-gnomon) - by Nick Harkaway 
 
-My all time favourite books:
 
+Some of my all time favourite books:
+
+- [Anathem](https://www.goodreads.com/book/show/2845024-anathem) - by Neal Stephenson
+- [Under Heaven](https://www.goodreads.com/book/show/7139892-under-heaven) - by Guy Gavriel Kay
 - [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice) - Malazan Book of the Fallen by Steven Erikson
 - [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) - by Ursula K. Le Guin 
 - [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) - Remembrance of Earth's Past by Liu Cixin 
