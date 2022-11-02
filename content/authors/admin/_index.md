@@ -70,7 +70,7 @@ social:
 # Visitors
 ---
 
-I am a Swiss National Science Foundation Postdoctoral Fellow at The Aix-Marseille School of Economics.
+I am a Swiss National Science Foundation Post-doctoral Fellow at The Aix-Marseille School of Economics.
 
 I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. My current work focuses on exploring the cultural dimensions of resource consumption. I also study decision making under uncertainty, modeled using stochastic processes. In my free time I enjoy reading science fiction and fantasy.
 
