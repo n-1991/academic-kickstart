@@ -72,7 +72,7 @@ social:
 
 I am a Swiss National Science Foundation Postdoctoral Fellow at The Aix-Marseille School of Economics.
 
-I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. My current work focuses on exploring the cultural dimensions of resource extraction and management. I also study decision making under uncertainty. In my free time I enjoy reading science fiction and fantasy.
+I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. My current work explores the social institutions in which the economy is embedded, specifically cultural preferences and belief systems, and study their impact on resource extraction and management. I also study decision making under uncertainty. In my free time I enjoy reading science fiction and fantasy.
 
 I am on the 2022-23 job market and will be available for interviews.
 
