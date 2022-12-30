@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position
 
-role: Academic Supervisor
+role: Academic Supervisor TEST_LOCAL
 
 # Organizations/Affiliations
 
@@ -106,5 +106,4 @@ user_groups:
 ---
 
 I am an academic supervisor and I also work on research projects on development and international economics. 
-
 
