@@ -31,8 +31,8 @@ featured: false
 links: 
 # - name: Slides
 #  url: https://www.dropbox.com/s/yff0zuihe49szfp/Cata_Presentation.pdf?dl=0
-url_pdf: 'img/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf'
-url_poster: 'img/POSTER_REMI_VINE_Economic Drivers of Family Reunification.pdf'
+url_pdf: 'img/Research/Family_Migration_Africa_and_Europe_RV_JMP_last_version.pdf'
+url_poster: 'img/Research/POSTER_REMI_VINE_Economic Drivers of Family Reunification.pdf'
 # url_project: ''
 # url_slides: '#'
 # url_source: '#'
@@ -61,5 +61,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
 

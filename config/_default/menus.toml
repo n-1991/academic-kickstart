@@ -34,8 +34,8 @@
   weight = 50
 
 [[main]]
-  name= "Other material"
-  url= "extra_material/"
+  name= "Other materials"
+  url= "extra_materials/"
   weight = 60
 
 [[main]]

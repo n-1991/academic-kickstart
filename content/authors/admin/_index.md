@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position
 
-role: Academic Supervisor
+role: Lecturer, Faculty Lead, and Consultant
 
 # Organizations/Affiliations
 
@@ -26,14 +26,17 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, _etc._)  
+bio: My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, _etc._), and to cross-border capital (FDI and remittances).  
 
 interests:
 
 - Development
 - Migration Economics
-- Remittances
 - Migration Reforms
+- Remittances
+- FDI 
+- Infrastructure Investment
+- SDGs
 
 education:
   courses:
@@ -105,6 +108,4 @@ user_groups:
 
 ---
 
-I am an academic supervisor and I also work on research projects on development and international economics. 
-
-
+I am an economist and I work on development and international economics. 
