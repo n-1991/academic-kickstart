@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position
 
-role: Academic Supervisor TEST_LOCAL
+role: Academic Supervisor TEST_LOCAL2
 
 # Organizations/Affiliations
 
