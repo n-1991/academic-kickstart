@@ -15,7 +15,7 @@ weight = 90
 
 ## Lecturing 
 
-* Statistics 1 for International Relations and Political Science (master)
+* Statistics 1 for International Relations and Political Science (master), 2022
 
 
 
