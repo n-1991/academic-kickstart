@@ -13,16 +13,25 @@ subtitle = ""
 weight = 90
 +++
 
+## Lecturing 
+
+* Statistics 1 for International Relations and Political Science (master)
+
+
+
+## Teaching assistant
+
 -	**Capstone Project - Trade and Finance track**
-	-	_Ugo Panizza - Spring 2019 to Autumn 2019_  
+  -	_Ugo Panizza - Spring 2019 to Autumn 2019_  
 -	**Statistical Methods for Social Sciences**
-	-	_Jean Swanson  - Autumn 2018 ; Autumn 2019 ; Autumn 2020_
+  -	_Jean Swanson  - Autumn 2018 ; Autumn 2019 ; Autumn 2020_
 -	**Qualitative Methods**
-	-	_Ashley Thornton - Spring 2018_
+  -	_Ashley Thornton - Spring 2018_
+  -	Oliver Jütersonke - Spring 2021
 -	**The Law and Economics of Bargaining in International Agreements**
-	-	_Timothy Swanson - Spring 2018_  
-- **Asian Security System**
+  -	_Timothy Swanson - Spring 2018_  
+-	**Asian Security System**
   - _Lanxin Xiang - Autumn 2017_
 -	**Trade and Development**
-	-	_Julia Cajal - Autumn 2017_
-  
+  -	_Julia Cajal - Autumn 2017_
+

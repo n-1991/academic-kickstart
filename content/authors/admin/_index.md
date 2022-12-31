@@ -109,8 +109,3 @@ user_groups:
 ---
 
 I am an economist and I work on development and international economics. 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> d755b74ee04721f1b3f62b4bd61554a727243cc8
