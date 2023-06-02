@@ -1,5 +1,5 @@
 ---
-title: "Scenes from a Monopoly: Quickest Detection of Ecological Regimes"
+title: "Quickest Detection of Ecological Regimes for Dynamic Resource Management"
 authors:
 - admin
 - Daniele Rinaldo
