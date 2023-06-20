@@ -13,10 +13,10 @@
   url = "img/cv.pdf"
   weight = 20
 
-[[main]]
-  name = "Job Market Paper"
-  url = "#jmp"
-  weight = 30
+# [[main]]
+#  name = "Job Market Paper"
+#  url = "#jmp"
+#  weight = 30
 
 [[main]]
   name = "Publications"
