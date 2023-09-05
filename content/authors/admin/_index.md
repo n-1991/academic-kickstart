@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Economist
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Aix-Marseille School of Economics
-  url: "https://www.amse-aixmarseille.fr/en"
+- name: University of Exeter Business School, Department of Economics
+  url: "http://business-school.exeter.ac.uk/about/departments/economics/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include studying decision making under uncertainty, modeled using stochastic processes, with a focus on firm dynamics and environmental economics. 
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:neha.deopa@univ-amu.fr"
+  link: "mailto:n.deopa@exeter.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NehaDeopa
@@ -70,7 +70,7 @@ social:
 # Visitors
 ---
 
-I am an Assistant Professor (Lecturer) at the [University of Exeter Business School](http://business-school.exeter.ac.uk/about/departments/economics/) in the Department of Economics, and affiliated with the Land, Environment and Economic Policy Institute (LEEP). 
+I am an Assistant Professor (Lecturer) at the [University of Exeter Business School](http://business-school.exeter.ac.uk/about/departments/economics/) in the Department of Economics, and affiliated with the [Land, Environment and Economic Policy Institute (LEEP)](https://www.exeter.ac.uk/research/leep/). 
 
 Previously, I was a Swiss National Science Foundation Postdoctoral Fellow at The Aix-Marseille School of Economics. I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. My current work explores the impact of social institutions, specifically cultural preferences and belief systems, on resource extraction and management. I also study decision-making under uncertainty. In my free time I enjoy reading science fiction and fantasy.
 
