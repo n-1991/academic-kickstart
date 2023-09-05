@@ -14,7 +14,7 @@ role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Exeter Business School, Department of Economics
+- name: University of Exeter Business School, Economics Department
   url: "http://business-school.exeter.ac.uk/about/departments/economics/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,6 @@ social:
 
 I am an Assistant Professor (Lecturer) at the [University of Exeter Business School](http://business-school.exeter.ac.uk/about/departments/economics/) in the Department of Economics, and affiliated with the [Land, Environment and Economic Policy Institute (LEEP)](https://www.exeter.ac.uk/research/leep/). 
 
-Previously, I was a Swiss National Science Foundation Postdoctoral Fellow at The Aix-Marseille School of Economics. I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. My current work explores the impact of social institutions, specifically cultural preferences and belief systems, on resource extraction and management. I also study decision-making under uncertainty. In my free time I enjoy reading science fiction and fantasy.
+Previously, I was a Swiss National Science Foundation Postdoctoral Fellow at The Aix-Marseille School of Economics. I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. I also study decision-making under uncertainty. In my free time I enjoy reading science fiction and fantasy.
 
-
+# My current work explores the impact of social institutions, specifically cultural preferences and belief systems, on resource extraction and management.
