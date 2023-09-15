@@ -1,5 +1,5 @@
 ---
-title: "Quickest Detection of Ecological Regimes for Dynamic Resource Management"
+title: "Quickest Detection of Ecological Regimes for Dynamic Resource Management (R&R)"
 authors:
 - admin
 - Daniele Rinaldo
