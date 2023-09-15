@@ -1,5 +1,5 @@
 ---
-title: "Religiously-Inspired Baby Boom: A Case Study of Georgia"
+title: "Religiously-Inspired Baby Boom: A Case Study of Georgia (R&R)"
 authors:
 - admin
 - Seung-Hun Chung
