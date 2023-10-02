@@ -70,7 +70,7 @@ social:
 # Visitors
 ---
 
-I am an Assistant Professor (Lecturer) at the [University of Exeter Business School](http://business-school.exeter.ac.uk/about/departments/economics/) in the Department of Economics, and a member of the [Land, Environment and Economic Policy Institute (LEEP)](https://www.exeter.ac.uk/research/leep/). 
+I am an Assistant Professor (Lecturer) in Economics at the [University of Exeter Business School](http://business-school.exeter.ac.uk/about/departments/economics/) and a member of the [Land, Environment and Economic Policy Institute (LEEP)](https://www.exeter.ac.uk/research/leep/). 
 
 Previously, I was a Swiss National Science Foundation Postdoctoral Fellow at The Aix-Marseille School of Economics. I graduated with a PhD in Economics from The Graduate Institute (IHEID), Geneva. My research interests are at the intersection of environmental economics and political economy. I also study decision-making under uncertainty. In my free time I enjoy reading science fiction and fantasy.
 
