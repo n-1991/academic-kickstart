@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links: 
-# - name: PDF
-#   url: img/jmp.pdf
+ - name: Latest Version
+   url: img/sacred_ecology.pdf
 # name: Latest Version
  # url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: img/jmp.pdf
