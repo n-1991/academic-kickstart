@@ -1,5 +1,5 @@
 ---
-title: "Quickest Detection of Ecological Regimes for Dynamic Resource Management (R&R)"
+title: "Quickest Detection of Ecological Regimes for Natural Resource Management (R&R)"
 authors:
 - admin
 - Daniele Rinaldo
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Decisions under ecological uncertainty play a crucial role in resource management as ecological systems often undergo abrupt regime shifts, frequently triggered by the actions of economic agents. We study the stochastic dynamics of a renewable resource extracted by a monopolist whose actions affect the resource’s ability to regenerate, resulting in sequential regime shifts. The firm faces further uncertainty in the timing of these shifts. We encapsulate in our model environmental surveillance of ecological dynamics where the firm searches for the profit-maximizing extraction policy while simultaneously detecting in the quickest time possible the change in regime. We provide the conditions that determine whether an adverse regime shift can lead to either an aggressive or a precautionary extraction policy, depending on the interaction between market demand, resource scarcity and time horizon. We show how it is Pareto optimal for the monopolist to implement the detection procedure. We apply this framework to the case of the Cantareira water reservoir in Sao Paulo, Brazil,and study the events that led to its depletion and the consequent water supply crisis.
+abstract: We study the stochastic dynamics of natural resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist and provide the conditions that determine whether anticipating detection of an adverse regime shift can lead to an aggressive or a precautionary extraction policy, depending on the interaction between market and environmental parameters. We apply our framework to the case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
 
 # Summary. An optional shortened abstract.
 summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
