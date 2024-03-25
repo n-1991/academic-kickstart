@@ -3,7 +3,7 @@ title: "Quickest Detection of Ecological Regimes for Natural Resource Management
 authors:
 - admin
 - Daniele Rinaldo
-date: "2024-03-24T00:00:00Z"
+date: "2024-03-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ summary: Environmental and Resource Economics (Forthcoming)
 tags:
 
 - Source Themes
-featured: true
+featured: false
 
 links: 
  - name: arXiv
