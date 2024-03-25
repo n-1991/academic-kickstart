@@ -2,7 +2,7 @@
 title: "Quickest Detection of Ecological Regimes for Natural Resource Management"
 authors:
 - admin
-- [Daniele Rinaldo](https://danielerinaldo.com/)
+- Daniele Rinaldo
 date: "2024-03-03T00:00:00Z"
 doi: ""
 
