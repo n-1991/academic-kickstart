@@ -3,7 +3,7 @@ title: "Quickest Detection of Ecological Regimes for Natural Resource Management
 authors:
 - admin
 - Daniele Rinaldo
-date: "2020-09-07T00:00:00Z"
+date: "2024-03-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: "2019-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: We study the stochastic dynamics of natural resources under the threat of ecological regime shifts. We establish a Pareto optimal framework of regime shift detection under uncertainty that minimizes the delay with which economic agents become aware of the shift. We integrate ecosystem surveillance in the formation of optimal resource extraction policies. We fully solve the case of a profit-maximizing monopolist and provide the conditions that determine whether anticipating detection of an adverse regime shift can lead to an aggressive or a precautionary extraction policy, depending on the interaction between market and environmental parameters. We apply our framework to the case of the Cantareira water reservoir in Sao Paulo, Brazil, and study the events that led to its depletion and the consequent water supply crisis.
 
 # Summary. An optional shortened abstract.
-summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
+summary: Environmental and Resource Economics (Forthcoming)
 tags:
 
 - Source Themes
