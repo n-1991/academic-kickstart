@@ -33,6 +33,8 @@ featured: true
 links: 
 - name: PDF
   url: img/Georgia_Fertility.pdf
+- name: Codes
+  url: https://github.com/n-1991/Georgia-Codes  
 #   url: https://arxiv.org/abs/2005.11500
 # name: Latest Version
 # url_pdf: 
