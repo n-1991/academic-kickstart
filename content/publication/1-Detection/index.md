@@ -23,7 +23,7 @@ abstract: We study the stochastic dynamics of natural resources under the threat
 
 # Summary. An optional shortened abstract.
 summary: Environmental and Resource Economics, (2024)
-tags:
+tags: Forest
 
 - Source Themes
 featured: false
