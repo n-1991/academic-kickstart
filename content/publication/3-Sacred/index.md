@@ -1,5 +1,5 @@
 ---
-title: "Sacred Ecology: The Environmental Impact of African Traditional Religions"
+title: "Sacred Ecology"
 authors:
 - admin
 - Daniele Rinaldo
