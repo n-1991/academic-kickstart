@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Do religions codify ecological principles? This paper explores theoretically and empirically the role religious beliefs play in shaping environmental interactions. We study African Traditional Religions (ATR) which place forests within a sacred sphere. I build a model of non-market interactions of the mean-field type where the actions of agents with heterogeneous religious beliefs continuously affect the spatial density of forest cover. The equilibrium extraction policy shows how individual beliefs and their distribution among the population can be a key driver of forest conservation. The model also characterizes the role of resource scarcity in both individual and population extraction decisions. We test the model predictions empirically relying on the unique case of Benin, where ATR adherence is freely reported. Using an instrumental variable strategy that exploits the variation in proximity to the Benin-Nigerian border, we find that a 1 standard deviation increase in ATR adherence has a 0.4 standard deviation positive impact on forest cover change. I study the impact of historically belonging to the ancient Kingdom of Dahomey, birthplace of the Vodun religion. Using the original boundaries as a spatial discontinuity, we find positive evidence of Dahomey affiliation on contemporary forest change. Lastly, we compare observed forest cover to counterfactual outcomes by simulating the absence of ATR beliefs across the population.
+abstract: Can religions shape ecosystems? We explore the role religious beliefs play in human-environment interactions by studying African Traditional Religions (ATR), which place forests within a sacred sphere. We focus on the unique case of Benin, whose history is deeply intertwined with traditional religions and where adherence is reliably reported. By exploiting three sources of exogenous variation in Benin's exposure to Charismatic Pentecostalism, we find that increase in ATR adherence yields positive changes in both forest and tree canopy cover. This increase is driven by sustainable land use policies rather than cooperation and shared governance mechanisms. To understand how ATR beliefs shape the way individuals combine the sacred and the ecology in their preferences, we build a theoretical framework of deforestation with heterogeneous pro-environmental attitudes driven by ATR adherence. Bringing the model to the data, we estimate that without any ATR adherence Benin would experience a loss of 10% of its tree canopy area, and would exhibit unsustainable deforestation rates. Our results show how ATR beliefs can play a fundamental role in forest and ecosystem conservation. 
 # Summary. An optional shortened abstract.
 # summary: We study the stochastic dynamics of a renewable resource harvested by a monopolist where harvesting affects the resource’s potential to regenerate, resulting in sequential regime shifts. 
 tags:
@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links: 
-# - name: Latest Version
-#   url: img/sacred_ecology.pdf
+ - name: Latest Version
+   url: img/SacredEcology_DeopaRinaldo.pdf
 # name: Latest Version
  # url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: img/jmp.pdf
